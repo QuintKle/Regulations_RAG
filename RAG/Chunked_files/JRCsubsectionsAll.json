@@ -1,0 +1,1274 @@
+[
+    {
+        "metadata": {
+            "CoC No": "3.1.1",
+            "Name": "Group Involvement",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Evidence would be copies of the approval board minutes including circulation list.",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall establish an approval board that meets on a regular basis and shall contain representatives from all disciplines including Senior Management, IT, M&E Engineering, Applications/Software and Procurement. The organisation shall require the approval of this group for any significant decision to ensure that the impacts of the decision have been properly understood and an effective solution reached. For example, this could include the definition of standard IT hardware lists through considering the M&E implications of different types of hardware. This group could be seen as the functional equivalent of a change board. The meeting minutes shall be documented. Note: the frequency of the meetings shall be at the descretion of the organisation, but should be once every 3 months. tThe agenda should also be at the descretion of the organisation, but should include, but not be limited to the following, Attendees, Agenda, Items for discussion, Actions arising, AOB.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.1.1, Name: Group Involvement, Description: Establish an approval board containing representatives from all disciplines including Senior Management, IT, M&E Engineering, Applications/Software and Procurement. Require the approval of this group for any significant decision to ensure that the impacts of the decision have been properly understood and an effective solution reached. For example, this could include the definition of standard IT hardware lists through considering the M&E implications of different types of hardware. This group could be seen as the functional equivalent of a change board.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.2.1",
+            "Name": "Consider the embodied environmental impact of installed devices",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Audit Documents",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall carry out and document an audit of all existing equipment to maximise any unused existing capability by ensuring that all areas of optimisation, consolidation and aggregation are identified prior to new material investment. Note: The severity of impact is related to the frequency of refresh and replacement.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.2.1, Name: Consider the embodied environmental impact of installed devices, Description: Carry out an audit of existing equipment to maximise any unused existing capability by ensuring that all areas of optimisation, consolidation and aggregation are identified prior to new material investment. The most important element to this in terms of impact is the IT equipment. The severity of impact is related to the frequency of refresh and replacement.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.2.2",
+            "Name": "Mechanical and electrical equipment environmental operating ranges",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design & Procurement Documents",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall recommend the selection and deployment of mechanical and electrical equipment which does not itsel f require additional cooling beyond standard office room cooling in normal operation. Note: the exception to this being some UPS batteries. Some UPS batteries require to be kept at lower temperatures to preserve performance and reliability and to maximise operational lifetime.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.2.2, Name: Mechanical and electrical equipment environmental operating ranges, Description: Recommend the selection and deployment of mechanical and electrical equipment which does not itself require additional cooling beyond standard office room cooling in normal operation (the exception to this being some UPS batteries). Note: Some UPS batteries require to be kept at lower temperatures to preserve performance and reliability and to maximise operational lifetime.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.2.4",
+            "Name": "Life Cycle Assessment",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "LCA documents",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall introduce a plan for Life Cycle Assessment (LCA) in accordance with EU guidelines and internationally standardised methodologies. Note: Examples are notably the latest version of EN ISO 14040, EN ISO 14044, EN 15978 \"\u0091Sustainability of construction works \u0096 assessment of environmental performance of buildings \u0096 calculation method\u0092 is also a standard that is considered relevant to this Practice. Note: This Practice aims to reduce overall carbon footprint and improve sustainability rather than directly improve energy efficiency. A list of recommended environmental sustainability practices is available in the latest version of CEN/CENELEC document CLC/TR 50600-99-2.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.2.4, Name: Life Cycle Assessment, Description: Introduce a plan for Life Cycle Assessment (LCA) in accordance with EU guidelines and internationally standardised methodologies. Examples of which would be ISO 14040 and ISO 14044. EN 15978 'Sustainability of construction works - assessment of environmental performance of buildings - calculation method' is also a standard that is considered relevant to this Practice. Note: This Practice aims to reduce overall carbon footprint and improve sustainability rather than directly improve energy efficiency. A list of recommended environmental sustainability practices is available in the CEN/CENELEC document CLC/TR 50600-99-2.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.2.5",
+            "Name": "Environmental Management",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "ISO 14001 or Equivalent Documents or Certificate",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall introduce a plan for Environmental Management in accordance with emerging EU guidelines and internationally standardised methodologies, for example EN ISO 14001. The organisation shall consider appointing a cross-functional Environmental Sustainability Manager to take responsibility for this initiative. Note: this practice can be fullfilled by implementation of practice 326.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.2.5, Name: Environmental Management, Description: Introduce a plan for Environmental Management in accordance with emerging EU guidelines and internationally standardised methodologies. An example of which would be ISO 14001. Consider appointing a cross functional Environmental Sustainability Manager to take responsibility for this initiative.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.2.6",
+            "Name": "Energy Management",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "ISO50001 or Equivalent Documents or Certificate.",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall introduce a plan for Energy Management in accordance with emerging EU guidelines and internationally standardised methodologies, for example EN ISO 50001. Note: The Code of Conduct can be used effectively to underpin the expectations and reporting requirements specifically for data centres in relation to EN ISO 50001. The organisation Consider appointing a cross functional Energy Manager to take responsibility for this initiative. Note: this practice can be fullfilled by implementation of practice 325.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.2.6, Name: Energy Management, Description: Introduce a plan for Energy Management in accordance with emerging EU guidelines and internationally standardised methodologies. An example of which would be ISO 50001. Note: The Code of Conduct can be used effectively to underpin the expectations and reporting requirements specifically for data centres in relation to ISO 50001. Consider appointing a cross functional Energy Manager to take responsibility for this initiative.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.2.7",
+            "Name": "Asset Management",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "ISO55000 or equivalent documents. Certificate or review of Asset Management System",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall ensure that Asset Management for both IT as well as mechanical and electrical assets is implemented and controlled according to a standard and accepted methodology. Note: ISO 55000 is relevant. Note: Understanding the numbers, types and purposes of the assets deployed in a data centre underpins effective energy management.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.2.7, Name: Asset Management, Description: Ensure that Asset Management for both IT and mechanical and electrical assets etc. is implemented and controlled according to a standard and accepted methodology. An example of which would be ISO 55000. Understanding the numbers, types and purposes of the assets deployed in a datacentre underpins effective energy management.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.2.8",
+            "Name": "Sustainable energy usage",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Documents relating to the procurement of sustainable energy/Renewable energy certificate from Supplier/ DCiM/BMS/EMS information showing REF values",
+            "Priority/Value": 1,
+            "Framework": "The organisation shall consider, report and document the proportion of energy used by the data centre that comes from renewable/sustainable sources. Recording and reporting on the proportion of sustainable/renewable energy used against the overall energy consumption is expected to become an expected monitoring and reporting requirement in time. Note 1: Standardised metrics in this area are available, such as EN 50600-4-3. EN 50600-4-3 \u0093Information technology \u0097 Data centre facilities and infrastructures \u0097 Part 4-3: Renewable Energy Factor\u0094 specifies the Renewable Energy Factor, CLC/TR 50600-99-1 and CLC/TR 50600-99-2 address \"Best Practic+G34es for Data Centre Energy Efficiency\" and \"Environmental Sustainability\" respectively. Note 2: EN 50600-1, EN 50600-2-X and EN 50600-3-1 have been adopted by ISO/IEC as ISO/IEC TS 22237. Note: ETSI EN 305 200-3-1 KPIREN KPI excludes both energy from grid and energy not consumed on site, in conformance with net zero initiatives.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.2.8, Name: Sustainable energy usage, Description: Consider the proportion of energy used by the data centre that comes from renewable /sustainable sources. Recording and reporting on the proportion of sustainable / renewable energy used against the overall energy consumption is expected to become an expected monitoring and reporting requirement in time. Note: Standardised metrics in this area are available as EN 50600-4-3 or ISO/IEC30134-3. EN 50600 4-3 \u0093Information technology \u0097Data centre facilities and infrastructures \u0097Part 4-3: Renewable Energy Factor\u0094 specifies the \u0093Renewable Energy Factor, REF\u0094 as the ratio of the renewable energy (in kWh) to the total energy consumption (in kWh). Note: REF covers all renewable energy purchased from the utility (with guarantee of origin) and produced on-site. However,renewable energy produced on-site, that is not consumed on-site and partly or in total sold to the grid, shall be excluded from REF. Note: CLC/TR 50600-99-1 and CLC/TR50600-99-2 address Best Practices for Data Centre Energy Efficiency and Environmental Sustainability respectively. Both are a part of the European EN 50600 Standard series. Note: The EN 50600 series has now been adopted by ISO/IEC as ISO/IEC TS 22237. Note: ETSI EN 305 200-3-1 KPIREN KPI excludes both energy from grid and energy not consumed on site, in conformance with net zero initiatives.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.2.12",
+            "Name": "Monitor and manage air quality",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Air Quality Management Documents, Service records",
+            "Priority/Value": 2,
+            "Framework": "The organisation shall ensure that air quality is monitored and managed to ensure that critical equipment is not affected by particulates or corrosive elements which might impact both IT equipment and cooling equipment in terms of performance, energy efficiency and reliability. This should inform the choice of filters used and the planned replacement schedule as well as the frequency of routine technical cleaning programme (including underfloor and ceiling void areas if applicable). Filter choices should be informed by EN ISO 16890-1. Note 1: The ASHRAE white paper \u00912011 Gaseous and Particulate Contamination Guidelines for Data Centers\u0092 recommends that data centre air quality is monitored and cleaned according to EN ISO 14644-8, Class 8. This can be achieved by routine technical cleaning and simple filtration. Note 2: Airborne Contaminants including gaseous contaminants should be managed according to ANSI/ISA 71.04-2013.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.2.12, Name: Monitor and manage air quality, Description: Ensure that air quality is monitored and managed to ensure that critical equipment is not damaged by particulates or corrosive elements which might impact both IT equipment and cooling equipment in terms of performance, energy efficiency and reliability. This should inform the choice of filters used and the planned replacement schedule as well as the frequency of routine technical cleaning programme (including underfloorand ceiling void areas if applicable). Filter choices should be informed by ISO16890-1. Note: Th e ASHRAE white paper \u00912011 Gaseous and Particulate Contamination Guidelines for Data Centers\u0092 recommends that data centre air quality is monitored and cleaned according to ISO 14644-8 Class 8. This can be achieved by routine technical cleaning and simple filtration. Note: Airborne Contaminants including gaseous contaminants should be managed according to ANSI/ISA 71.04-2013.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.2.13",
+            "Name": "Consider technical areas of data centres as industrial space",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Visual Inspection, Design Documents and Design Brief",
+            "Priority/Value": 3,
+            "Framework": "The data centre technical areas and plant rooms shall be considered as an industrial space, designed, built and operated efficiently for ICT equipment rather than for human comfort. Note: This objective aims to prevent the energy efficiency of the technical space being compromised by the need for human comfort other than to comply with local statutory requirement and law (Health and Safety etc.). Note: Data Centres are primarily technical spaces, not office space, and should therefore only require the control make up air volumes and environmental conditions to pressurise the spaces in order avoid ingress of particles and contaminants rather than for seated human comfort. This only relates to those areas of the centre intended to hold operational IT equipment or supporting mechanical or electrical infrastructure. These areas should not contain desks or workstations. Note: This is not intended to reduce or impose conditions on dedicated and purpose-built office space within the data centre building. Note: the air quality can be monitored according to EN50600-2-3.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.2.13, Name: Consider technical areas of data centres as industrial space, Description: The data centre technical areas and plant rooms should be considered as an industrial space, designed built and operated with the single primary objective of delivering high availability IT services reliably and efficiently. Note: This objective aims to prevent the energy efficiency of the technical space being compromised by the need for human comfort other than to comply with local statutory requirement and law (Health and Safety etc.). Note: Data Centres are primarily technical spaces, not office space, and should therefore only require the control make up air volumes and environmental conditions to pressurise the spaces in order avoid ingress of particles and contaminants rather than for seated human comfort. This only relates to those areas of the centre intended to hold operational IT equipment or supporting mechanical or electrical infrastructure. These areas should not contain desks or workstations. Note: This is not intended to reduce or impose conditions on dedicated and purpose built office space within the data centre building.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.2.14",
+            "Name": "Site Documentation",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Review Site Documents, should contain O&M Manuals, Drawings, schematics and be available in digital or physical form.",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall ensure that high quality, accurate SOPs, MOPs, EOPs, O&M manuals, As-Built records, commissioning records, schematics and single lines diagrams are available in order to enable all installed infrastructure and equipment to be maintained as originally designed and operated at optimum levels of efficiency. Updates shall be made whenever any settings are changed or equipment is added, replaced or modified. Historical records shall also be kept. Effective commissioning and delivery of detailed and accurate documentation shall be a key part of any project handover. Note: SOPs= Standard operating procedures, MOPs=maintenance operating portocols, EOPs=emergiences operating procedures Note: EN 50600-3-1 can be referenced for more detail on this area. Note: Accurate documentation and records are essential to the correct operation and use of energy efficiency functions built-In by equipment manufacturers.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.2.14, Name: Site Documentation, Description: Ensure that high quality, accurate O&M manuals, As-Built records, commissioning records, schematics and single lines diagrams are available in order to enable all installed infrastructure and equipment to be maintained as originally designed and operated at optimum levels of efficiency. Accurate documentation and records are essential to the correct operation and use of energy efficiency functions built-In by equipment manufacturers. Updates should be made whenever any settings are changed or equipment is added, replaced or modified. Historical records should also be kept. Effective commissioning and delivery of detailed and accurate documentation should be a key part of any project handover. Note: EN 50600-3-1 can be referenced for more detail on this area.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.2.15",
+            "Name": "Training and Development",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Training company certificates, Internal training matrix, list of participants",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall ensure the Data Centre Manager and any appointed Energy Manager has relevant and appropriate training to fulfil an energy efficiency role and have an in-depth appreciation of Best Practices. The organisation shall ensure that both IT and Facilities personnel are aware of Data Centre energy efficiency Best Practices in order to support organisational strategies to reduce IT energy usage. Note: It is the intention to remove silos and promote a minimum level of common understanding related to data centre Operations and Management. An overall training methodology should be defined and delivered to all relevant personnel in order to improve individual personal development and develop suitably qualified and experienced data centre personnel. Note: Properly trained and qualified personnel are essential to an efficient data centre operation.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.2.15, Name: Training and Development, Description: Ensure the Data Centre Manager and any appointed Energy Manager has relevant and appropriate training to fulfil an energy efficiency role and have an in-depth appreciation of Best Practices (such as this Code of Conduct). Ensure that both IT and Facilities personnel are aware of Data Centre energy efficiency Best Practises (such as this Code of Conduct) in order to support organisational strategies to reduce IT energy usage. Remove silos and promote a minimum level of common understanding relating to datacentre Operations and Management. An overall training methodology should be defined and delivered to all relevant personnel in order to improve individual personal development and develop suitably qualified and experienced data centre personnel. Note: Properly trained and qualified personnel are essential to efficient data centre operation.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.3.1",
+            "Name": "Build resilience to business requirements",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Review of Design Drawings/Project Scope",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall consider and document the level of resilience and availability actually justified by business requirements and impact analysis that should be built or purchased in the case of a colocation customer. Note 1: EN 50600-1 mandates a risk analysis to determine the level of redundancy of DC infrastuctures to properly reflect the level of desired resilience and availability.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.3.1, Name: Build resilience to business requirements, Description: Only the level of resilience and therefore availability actually justified by business requirements and impact analysis should be built or purchased in the case of a collocation customer. 2N infrastructures are frequently unnecessary and inappropriate. If only a single level of resilience is available in the data centre an increased resilience or availability for critical services might be obtained by splitting the IT platform across multiple sites and making applications resilient to the loss of an individual site.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.3.2",
+            "Name": "Consider multiple levels of resilience",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Review of Design Drawings/Project Scope/Service Charging Models",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall consider and document the provision of multiple levels of power and cooling resilience to different floo r areas. Note: for example, optional \u0091grey\u0092 power feeds without UPS or generator back up.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.3.2, Name: Consider multiple levels of resilience, Description: It is possible to build a single data centre to provide multiple levels of power and cooling resilience to different floor areas. Many co-location providers already deliver this, for example, optional \u0091grey\u0092 power feeds without UPS or generator back up.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.3.3",
+            "Name": "Lean provisioning of power and cooling for a maximum of 18 months of data floor capacity",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Review of Design Drawings/Project Scope",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall consider and document the lean provisioning of power and cooling capacity in the data centre for a maximum of 18 months of data floor capacity. Note: The provisioning of excess power and cooling capacity in the data centre drives substantial fixed losses and is unnecessary.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.3.3, Name: Lean provisioning of power and cooling for a maximum of 18 months of data floor capacity, Description: The provisioning of excess power and cooling capacity in the data centre drives substantial fixed losses and is unnecessary. Planning a data centre for modular (scalable) expansion and then building out this capacity in a rolling program of deployments is more efficient. This also allows the technology \u0091generation\u0092 of the IT equipment and supporting M&E infrastructure to be matched, improving both efficiency and the ability to respond to business requirements.."
+    },
+    {
+        "metadata": {
+            "CoC No": "3.3.4",
+            "Name": "Design infrastructure to maximise part load efficiency",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Part load strategy document and SOPs",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall design the data centre to maximise the energy efficiency of the facility under partial fill/partial load and variable IT electrical and cooling loads. A part load strategy shall be documented. All areas of the data centre should be designed to maximise the energy efficiency of the facility under partial fill/partial load and variable IT electrical and cooling loads. Note: This is in addition to one off modular provisioning and should consider the response of the infrastructure to dynamic loads. E.G. Appropriately controlled Variable Frequency (or speed) Drive for pumps, fans and compressors.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 3.3.4, Name: Design infrastructure to maximise part load efficiency, Description: All areas of the data centre should be designed to maximise the energy efficiency of the facility under partial fill / partial load and variable IT electrical and cooling loads. This is in addition to one off Energy management plan  and should consider the response of the infrastructure to dynamic loads.E.G. Appropriately controlled Variable Frequency (or speed) Drive for pumps, fans and compressors.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.1.1",
+            "Name": "IT hardware \u0096 Power",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Updated & approved IT equipment selection & procurement process & manufacturer data sheet",
+            "Priority/Value": 5,
+            "Framework": "When procuring IT equipment (including network equipment, servers, storage systems, etc.) an organisation shall require the manufacturer to deliver an external report, such as an associated SPECpower or SERT report or measurements based on ETSI EN 303 407 for the equipment. This report shall show the power consumption of the equipment at different utilization levels as well as in idling state.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.1.1, Name: IT hardware \u0096 Power, Description: Include the Energy efficiency performance of the IT device as a high priority decision factor in the tender process. This may be through the use of SERT (http://www.spec.org/sert/) or SPEC Power. (http://www.spec.org/power_ssj2008/results/) or similar metrics or through application or deployment of specific user metrics more closely aligned to the target environment, which may include service level or reliability components. The power consumption of the device at the expected utilisation or applied workloa d should be considered in addition to peak performance per Watt figures. Reference ISO/IEC 30134-4: 2017 Information technology \u0097 Data centres \u0097Key performance indicators \u0097 Part 4: IT Equipment Energy Efficiency for servers (ITEEsv) Also ETSI - EN 303 470 Environmental Engineering (EE); Energy Efficiency measurement methodology and metrics for servers."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.1.2",
+            "Name": "New IT hardware \u0096 Restricted (legacy) operating temperature and humidity range",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Updated & approved IT equipment selection & procurement process",
+            "Priority/Value": 4,
+            "Framework": "In such a cases when no equipment can be procured which meets the operating temperature and humidity range of ASHRAE Class A2, then the organisation shall require procurement of equipment supporting the range of ASHRAE Class A1.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.1.2, Name: New IT hardware \u0096 Restricted (legacy) operating temperature and humidity range, Description: If no equipment can be procured which meets the operating temperature and humidity range of Practice 4.1.3 (ASHRAE Class A2), then equipment supporting (at a minimum), the restricted (legacy) range of 15\u00b0C to 32\u00b0C inlet temperature and humidity from \u009612\u00b0C DP and 8% rh to 27\u00b0C DP and 80% rh may be procured. This range is defined as the ASHRAE Allowable range for Class A1 class equipment. Class A1 equipment is typically defined as Enterprise class servers (including mainframes) and storage products such as tape devices and libraries.To support the restrictive range of operation equipment should be installed in a separate area of the data floor in order to facilitate the segregation of equipment requiring tighter environmental controls as described in Practices 5.1.11, 5.1.4 and 5.1.5. In unusual cases where older technology equipment must be procured due to compatibility and application validation requirements (an example being air traffic control systems), these systems should be considered as subset of this Practice and installed so as not to restrict the operation of other equipment described above. A summary o f ASHRAE environmental guidelines can be found at: https://www.ashrae.org/File%20Library/Technical%20Resources/Publication%20Errata%20and%20Update s/90577_errata.pdf."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.1.3",
+            "Name": "New IT hardware \u0096 Expected operating temperature and humidity range",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Updated & approved IT equipment selection & procurement process",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall include operating temperature and humidity ranges at the air intake of new equipment as a high priorit y decision factor in the tender process. Equipment should be able to withstand and be within warranty for the full range of the ASHRAE Class A2 allowable temperature and humidity range.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.1.3, Name: New IT hardware \u0096 Expected operating temperature and humidity range, Description: Include the operating temperature and humidity ranges at the air intake of new equipment as high priority decision factors in the tender process. Equipment should be able to withstand and be within warranty for the full range of 10\u00b0C to 35\u00b0C inlet temperature and humidity \u009612\u00b0C DP and 8% rh to 27\u00b0C DP and 80% rh. This is defined by the ASHRAE Class A2 allowable temperature and humidity range. Vendors are required to publish (not make available on request) any restriction to the operating hours within this range for any model or range which restricts warranty to less than continuous operation within the allowable range. To address equipment types which cannot be procured to meet this specification exclusions and mitigation measures are provided in Practices 4.1.2 for new IT equipment, 5.1.11 for existing data centres and 5.1.4 for new build data centres. Directly liquid cooled IT devices are addressed in Practice 4.1.14. A summary of ASHRAE environmental guidelines can be found at: https://www.ashrae.org/File%20Library/Technical%20Resources/Publication%20Errata%20and%20Update s/90577_errata.pdf."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.1.5",
+            "Name": "Select IT equipment suitable for the data centre power density and cooling delivery capabilities",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Updated and approved data center design document",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall have data center design documents that define the power density requirement. The power density requirements shall be considered during provisioning. Note: Increasing power density may create cooling and air flow management problems reducing both capacity and efficiency.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.1.5, Name: Select IT equipment suitable for the data centre power density and cooling delivery capabilities, Description: Select and deploy IT equipment at the designed power density (per cabinet or m\u00b2) of the data centre to avoid running the cooling system outside design parameters. Note: Increasing power density may create cooling and air flow management problems reducing both capacity and efficiency. Power and cooling need to be considered as capacity constraints in addition to physical space as referenced in Practice 5.5.6.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.1.6",
+            "Name": "IT equipment power usage against inlet temperature",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Updated & approved IT equipment selection & procurement process",
+            "Priority/Value": 5,
+            "Framework": "Organisations shall require the suppliers of IT equipment to deliver a report on the total power consumption of the system at different inlet temperature levels (in 5\u00b0C intervals) or as an alternative, supplement the SPECpower, SERT or EN 303 470 reports with such overview of system power use at different inlet temperature intervals (in 5\u00b0C intervals).",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.1.6, Name: IT equipment power usage against inlet temperature, Description: When selecting new IT equipment require the vendor to supply at minimum the total system power for a range of temperatures covering the full allowable inlet temperature range for the equipment at 100% load on a specified recognised benchmark such as Linpack, SERT (http://www.spec.org/sert/) or SPEC Power http://www.spec.org/power_ssj2008/). Data should be provided for 5\u00b0C or smaller steps of inlet temperature. As a minimum comply with the EU EcoDesign Directive and Lot 9 amendments to EU Commission regulation for servers and online storage systems. Considered optional but recommended; Total system power covering the full allowable inlet temperature range under 0% and 50% load on the selected benchmark. These sets of data shown easily in a single table and single chart will allow a data centre operator to select equipment to meet their chosen operating temperature range without significant increase in power consumption. This Practice is intended to improve the thermal performance of IT equipment by allowing operators to avoid devices with compromised cooling designs and creating a market pressure toward devices which operate equally well at increased intake temperature. Consider referencing and using the current U.S. EPA ENERGY STAR specifications for Servers. Consider referencing and using the current U.S. EPA ENERGY STAR specifications for Data Center Storage.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.1.7",
+            "Name": "Select equipment suitable for the data centre - Air flow direction",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Updated & approved IT equipment selection & procurement process; Updated guidelines for installing IT equipment in cabinets",
+            "Priority/Value": 5,
+            "Framework": "Organisations shall require suppliers to deliver equipment that has an airflow direction which matches the data center design. If the equipment does not match the design, it should only be used with a correction mechanism in place, such as ducts or special cabinets that divert airflow in the desired direction.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.1.7, Name: Select equipment suitable for the data centre - Air flow direction, Description: When selecting equipment for installation into cabinets ensure that the air flow direction matches the air flow design for that area. This is commonly front to rear or front to top. If the equipment uses a different air flow direction to that defined for the area into which it is installed (such as right to left when the cabinet is intended to be front to back) it should only be used with a correction mechanism such as ducts, or special cabinets that divert the air flow to the defined direction. Equipment with non-standard air flow will compromise the air flow management of the data centre and therefore restrict the ability to increase temperature set points. It is possible to mitigate this issue by segregating such equipment according to Practices 5.1.11, 5.1.4 and 5.1.5.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.1.8",
+            "Name": "Enable power management features",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Updated IT deployment & configuration process OR updated terms of service and/or customer contracts and documentation of the power management features of each equipment item and list of exceptions",
+            "Priority/Value": 5,
+            "Framework": "Organisations which own and deploy their own IT & networking equipment shall ensure that power management features are enabled in the Basic Input Output System (BIOS) settings or Unified Extensible Firmware Interface (UEFI), operating systems and driver settings of all equipment that has those features available. For organisations that install IT equipment on behalf of 3rd parties, the terms of service or contracts shall require the customers to enable power management features in the BIOS or ask the vendor to do so on their behalf. When IT equipment is installed for the first time, power management features shall be enabled and documented irrespective of the ownership of the equipment. Note: exceptions need to be documented.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.1.8, Name: Enable power management features, Description: Formally change the deployment process to include the enabling of power management features on IT hardware as it is deployed. This includes BIOS, operating system and driver settings.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.1.9",
+            "Name": "Provision only to the actual IT power usage required",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Updated and approved data center design document",
+            "Priority/Value": 3,
+            "Framework": "The organisation designing or retrofitting a new space shall provision power and cooling only to the planned power draw of the IT equipment as configured (based on the components actually installed), rather than the PowerSupply Unit (PSU) or nameplate rating.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.1.9, Name: Provision only to the actual IT power usage required, Description: Provision power and cooling only to the planned power draw of the IT equipment as configured (based on the components actually installed), rather than the Power Supply Unit (PSU) size or nameplate rating. This is intended to avoid over-sizing of electrical infrastructure resulting in a low (partial) load and therefore inefficient operation. Note: This may require changes to the provisioning if the IT equipment performance is increased or upgraded.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.1.10",
+            "Name": "EU Eco Design / Energy Star compliant hardware",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Updated & approved IT equipment selection & procurement process",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall procure IT equipment which has the highest efficiency in power usage for their given scenario, meeting as a minimum the Eco-design requirement, using ETSI EN 303 470 or the ISO/IEC 21836 as the measurement methodology. ENERGY STAR specifcation can be used as a reference, and organisations shall conduct their own analysis to identify the equipment with the highest efficiency.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.1.10, Name: EU Eco Design / Energy Star compliant hardware, Description: As a minimum comply with the EU EcoDesign Directive and Lot 9 amendments to EU Commission regulation for servers and online storage systems. The Energy Star Labelling programs for IT equipment should be used as a guide to server selection where and when available for that class of equipment. Operators who are able to determine the in-use energy efficiency of hardware through more advanced or effective analysis should selectthe most efficient equipment for their scenario. This Practice should be in line with the current U.S. EPA ENERGY STAR specifications for Servers. Additionally reference and use the current U.S. EPA ENERGY STAR specifications for Data Center Storage.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.1.11",
+            "Name": "Energy & temperature reporting hardware",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Updated & approved IT equipment selection & procurement process",
+            "Priority/Value": 3,
+            "Framework": "Organisations shall require that the equipment delivered by suppliers is capable of delivering power usage information as well as inlet temperature information via machine-readable interfaces, such as IPMI, DMTF Redfish or SMASH. This interface should be available through an IP based interface and support SNMP polling. Accessing the aforementioned interfaces should not require additional hardware, licenses or software by the vendor but rather should be open standards for integration with existing monitoring systems. As an alternative, the equipment vendor may provide a configuration interface to define an endpoint to which the same metering information is pushed/sent instead of offering a poll-based mechanism. This should still adhere to the SNMP protocol or another open protocol.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.1.11, Name: Energy & temperature reporting hardware, Description: Select equipment with power and inlet temperature reporting capabilities, preferably reporting energy used as a counter in addition to power as a gauge. Where applicable, industry standard reporting approaches should be used such as IPMI, DMTF Redfish and SMASH. To assist in the implementation of temperature and energy monitoring across abroad range of data centres all devices with an IP interface should support one of; SNMP polling of inlet temperature and power draw. Note that event based SNMP traps and SNMP configuration are not required IPMI polling of inlet temperature and power draw (subject to inlet temperature being included as per IPMI or Redfish) An interface protocol which the operators\u0092 existing monitoring platform is able to retrieve inlet temperature and power draw data from without the purchase of additional licenses from the equipment vendor The intent of this Practice is to provide energy and environmental monitoring of the data centre through normal equipment churn.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.1.12",
+            "Name": "Control of equipment energy use",
+            "Excpected for": "Optional",
+            "Evidence": "Updated & approved IT equipment selection & procurement process",
+            "Priority/Value": 5,
+            "Framework": "Organisations shall require equipment suppliers to provide functionality to reduce the energy use of equipment and sub-systems within the equipment (e.g. disabling functionality) through programmatic and machine-accessible interfaces (APIs), where possible without vendor specific software or additional equipment being required.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.1.12, Name: Control of equipment energy use, Description: Select equipment which provides mechanisms to allow the external control of its energy use. An example of this would be the ability to externally restrict a server\u0092s maximum energy use or trigger the shutdown of components, entire systems or sub-systems. Consider the use of user defined policies.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.1.13",
+            "Name": "When forced to use select free standing equipment suitable for the data centre \u0096 Airflow direction",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Updated and approved data center design document",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall have an approved data centre design principle document, that also deals with free-standing equipment. If no alternative is available select equipment which is free standing or supplied in custom cabinets so that the air flow direction of the enclosures match the airflow design in that area of the data centre. This is commonly front to rear or front to top.Specifically the equipment should match the hot/cold aisle layout or containment scheme implemented in the facility. Equipment with non-standard air flow can compromise the air flow management of the data centre and restrict the ability to raise temperature set points. It is possible to mitigate this compromise by segregating such equipment according to Best Practices 5.1.4, 5.1.5, and 5.1.11 of this Framework. Note: Try to avoid free standing equipment as it usually does not allow a well organised airflow through the data centre especially if the major part of the room is equipped with well organised IT equipment mounted in cabinets.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.1.13, Name: When forced to use select free standing equipment suitable for the data centre \u0096 Airflow direction, Description: If no alternative is available select equipment which is free standing or supplied in custom cabinets so that the air flow direction of the enclosures match the airflow design in that area of the data centre. This is commonly front to rear or front to top. Specifically the equipment should match the hot / cold aisle layout or containment scheme implemented in the facility. Equipment with non-standard air flow can compromise the air flow management of the data centre and restrict the ability to raise temperature set points. It is possible to mitigate this compromise by segregating such equipment according to Practices 5.1.11, 5.1.4 and 5.1.5 Note: Try to avoid free standing equipment as it usually does not allow a well organised airflow through the data centre especially if the major part of the room is equipped with well organised IT equipment mounted in cabinets.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.1.15",
+            "Name": "AC/DC Converter efficiency",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Updated & approved IT equipment selection & procurement process",
+            "Priority/Value": 3,
+            "Framework": "Organisation shall include high-efficiency Power Supply Units (PSUs), with at least a rated efficiency of 90% or better (80 PLUS Platinum) as part of their equipment selection process. Note: Also ETSI - EN 303 470 Environmental Engineering (EE); Energy Efficiency measurement methodology and metrics for servers. This Practice should also be implemented inline with EN 62040-5-3.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.1.15, Name: AC/DC Converter efficiency, Description: Select IT equipment containing high efficiency AC/DC power converters. These should be rated at 90% power efficiency or better across the range of loads expected for the equipment to be installed. Reference ISO/IEC 30134-4: 2017 Information technology \u0097 Data centres \u0097Key performance indicators \u0097 Part 4: ITEquipment Energy Efficiency for servers (ITEEsv) Also ETSI - EN 303 470 Environmental Engineering (EE); Energy Efficiency measurement methodology and metrics for servers. This Practice should also be implemented in line with the IEC 62040-5 standard.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.2.1",
+            "Name": "Deploy Virtualisation technologies",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Approved capacity management processes",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall implement a capacity management process which handles non-virtualised hardware. Within the process, the use of non-virtualised hardware is an exception and requires senior business approval.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.2.1, Name: Deploy Virtualisation technologies, Description: Processes should be put in place to require senior business approval for any new service that requires dedicated hardware and will not run on a resource sharing platform. This applies to servers, storage and networking aspects of the service.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.2.2",
+            "Name": "Reduce IT hardware resilience level",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Approved service design document",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall have a service design document which contains the contractual obligations and the required service availbility.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.2.2, Name: Reduce IT hardware resilience level, Description: Determine the business impact of service incidents for each deployed service and deploy only the level of hardware resilience that is fully justified. Ensure that the IT hardware resilience level is agreed by the application owners.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.2.3",
+            "Name": "Reduce hot / cold standby equipment",
+            "Excpected for": "New IT Equipment",
+            "Evidence": "Approved design document",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall have a service design document which contains the contractual obligations and the required service availbility.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.2.3, Name: Reduce hot / cold standby equipment, Description: Determine the business impact of service incidents for each IT service and deploy only the level of Business Continuity / Disaster Recovery stand by IT equipment and resilience that is fully justified by the business impact.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.2.4",
+            "Name": "Select efficient software",
+            "Excpected for": "New Software",
+            "Evidence": "Updated procurement guidelines for purchasing external software (Software-as-a-Service, Cloud Services, On-Premise Software)",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall, when procuring third-party software, make the energy use performance of the software a primary selection factor. Whilst forecasting and measurement tools and methods are still being developed, approximations could be used such as the (under load) power draw of the hardware required to meet performance and availability targets. This is an extension of existing capacity planning and benchmarking processes. See \u0093Further development of software efficiency definitions\u0094 in section 11 of the Code of Conduct.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.2.4, Name: Select efficient software, Description: Make the energy use performance of the software a primary selection factor. Whilst forecasting and measurement tools and methods are still being developed, approximations could be used such as the (under load) power draw of the hardware required to meet performance and availability targets. This is an extension of existing capacity planning and benchmarking processes. See \u0093Further development of software efficiency definitions\u0094 in section 11.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.2.5",
+            "Name": "Develop efficient software",
+            "Excpected for": "New Software",
+            "Evidence": "Updated software development guidelines for the internal IT organisations which include required practices on environmental impact & energy use reporting for internal- and external-use.",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall make the energy use performance of the software a primary development factor. Whilst forecasting and measurement tools and methods are still being developed, approximations could be used such as the (under load) powe r draw of the hardware required to meet performance and availability targets. This is an extension of existing capacity planning and benchmarking processes. See \u0093Further development of software efficiency definitions\u0094 in section 11 of the Code of Conduct.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.2.5, Name: Develop efficient software, Description: Make the energy use performance of the software a major success factor of the project. Whilst forecasting and measurement tools and methods are still being developed approximations, could be used such as the (under load) power draw of the hardware required to meet performance and availability targets. This is an extension of existing capacity planning and benchmarking processes. Performance optimisation should not be seen as a low impact area to reduce the project budget. See \u0093Further development of software efficiency definitions\u0094 in section 11.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.2.6",
+            "Name": "Incentives to develop efficient software",
+            "Excpected for": "Optional",
+            "Evidence": "Updated procurement guidelines for third-party software development, maintenance and management services.",
+            "Priority/Value": 5,
+            "Framework": "Make the energy use performance of the software a major success factor of the project. Whilst forecasting and measurement tools and methods are still being developed approximations, could be used such as the (under load) power draw of the hardware required to meet performance and availability targets. This is an extension of existing capacity planning and benchmarking processes. Performance optimisation should not be seen as a low impact area to reduce the project budget. See \u0093Further development of software efficiency definitions\u0094 in section 11 of the Code of Conduct.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.2.6, Name: Incentives to develop efficient software, Description: If software development is being outsourced then include the energy use of the software in the bonus / penalty clauses of the contract. Whilst forecasting and measurement tools and methods are still being developed approximations, could be used such as the (under load) power draw of the hardware required to meet performance and availability targets. This is an extension of existing capacity planning and benchmarking processes. Performance optimisation should not be seen as a low impact area to reduce the project budget. See \u0093Further development of software efficiency definitions\u0094 in section 11.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.3.1",
+            "Name": "Audit existing physical and service estate",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "A configuration & asset database exists and is frequently updated. All physical equipment is allocated to at least one application, service or storage.",
+            "Priority/Value": 5,
+            "Framework": "Organisations shall maintain a catalogue which specifies which physcial equipment is delivering which digital service, application or storage space. Note: organisations can consider ISO 55000 as well as ITIL type configuration management systems.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.3.1, Name: Audit existing physical and service estate, Description: Audit the existing physical and logical estate to establish what equipment is in place and what service(s) it delivers. Consider the implementation of an ITIL type Configuration Management Data base and Service Catalogue. A useful standard and reference to use in support of this Practice could be ISO 55000 See Practice 3.2.7.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.3.2",
+            "Name": "Decommission and remove unused equipment",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "IT monitoring system reporting the average utilization rate per server over set time periods is available. Updated guidelines on how idling equipment should be treated and optimized.",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall completely decommission and remove any equipment that is not required or used to support services no longer in use. Installed hardware should be regularly examined to ensure that it is still required and is supporting active services. Ensure the decommissioning and removal of test and development platforms once no longer needed. The organisation shall document the IT equipment and their usage and use that report on decision on decommissioning.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.3.2, Name: Decommission and remove unused equipment, Description: Completely decommission and remove any equipment that is not required or used to support services no longer in use. Installed hardware should be regularly examined to ensure that it is still required and is supporting active services. Ensure the decommissioning and removal of test and development platforms once no longer needed.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.3.3",
+            "Name": "Virtualise and archive legacy services",
+            "Excpected for": "Optional",
+            "Evidence": "Documented process.",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall ensure that servers or services which cannot be decommissioned for compliance or other reasons but which are not used on a regular basis should be virtualised and then the disk images archived to a low power media. These services can then be brought online when genuinely required. The organisation shall have a process to virtualize and archive any non-essential servers/services to low power media.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.3.3, Name: Virtualise and archive legacy services, Description: Servers or services which cannot be decommissioned for compliance or other reasons but which are not used on a regular basis should be virtualised and then the disk images archived to a low power media. These services can then be brought online when genuinely required.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.3.4",
+            "Name": "Consolidation of existing services",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "IT monitoring system reporting the average utilization rate per server over set time periods is available. Updated guidelines on how idling equipment should be treated and optimized.",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall consolidate services that do not achieve high utilisation through the use of resource sharing technologies to improve the use of physical resources. This applies to servers, storage and networking devices.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.3.4, Name: Consolidation of existing services, Description: Existing services that do not achieve high utilisation of their hardware should be consolidated through the use of resource sharing technologies to improve the use of physical resources. This applies to servers, storage and networking devices.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.3.5",
+            "Name": "Decommission of low business value services",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "A report on the business value, criticality and the financial overhead of the services is available. Updated guidelines on how less critical equipment should be treated and optimized.",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall decommission, archive or move to locations with less reliability/resilience any services with less business value and criticality and without justifying financial and environmental overhead.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.3.5, Name: Decommission of low business value services, Description: Identify services whose business value or criticality is low and that do not justify the financial or environmental overhead. Consider decommissioning or archiving these services or remove to locations with less reliability / resilience to reduce energy and financial overhead.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.3.6",
+            "Name": "Shut down and consider removal of idle equipment",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "IT monitoring system reporting the average utilization rate per server over set time periods is available. Updated guidelines on how idling equipment should be treated and optimized. Project documentation.",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall identify servers, networking and storage equipment that are idle for significant time and those that cannot be virtualised or archived should be shut down or put into a low power \u0091sleep\u0092 state. Complete removal should also be considered. Note: It will be necessary to validate the ability of legacy applications and hardware to survive these state changes without loss of function or reliability. The organisation should either remove, put into sleep-mode or virtualize equipment which is idling significantly (total resource utilization of memory, storage and CPU less than <25% over a 30 day period). Legacy applications should be migrated to a virtualized environment or archived if they lead to significant equipment being kept available but left idling.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.3.6, Name: Shut down and consider removal of idle equipment, Description: Servers, networking and storage equipment that is idle for significant time and cannot be virtualised or archived should be shut down or put into a low power \u0091sleep\u0092 state. Complete removal should also be considered. Note: It will be necessary to validate the ability of legacy applications and hardware to survive these state changes without loss of function or reliability.."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.3.8",
+            "Name": "Audit of existing IT equipment environmental requirements",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Environmental range report",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall identify the allowable intake temperature and humidity ranges for existing installed IT equipment. Equipment with restrictive intake temperature ranges shall be identified so that it should be either marked for replacement with newer equipment capable of a wider intake range or moved and dealt with according to Best Practices \u0093Separate environmental zones\u0094 (5.1.4 and 5.1.5) and \u0093Equipment segregation\u0094 (5.1.11) of this Framework . The organisation shall create a report on the operating environmental ranges of devices.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.3.8, Name: Audit of existing IT equipment environmental requirements, Description: Identify the allowable intake temperature and humidity ranges for existing installed IT equipment. Equipment with restrictive intake temperature ranges should be identified so that it may be either marked for replacement with newer equipment capable of a wider intake range or moved and dealt with according to Practices \u0093Equipment segregation\u0094 (5.1.11) and \u0093Separate environmental zones\u0094 (5.1.4 and 5.1.5).."
+    },
+    {
+        "metadata": {
+            "CoC No": "4.4.1",
+            "Name": "Data management policy",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Data policy & configuration system is accessible for users in the organisation. Reporting on the energy-usage of storage space is available to users on a monthly basis. Data storage options are available that can respond to user & policy requirements.",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall develop a data management policy to define which data should be kept, for how long and at what level of protection. Communicate the policy (via an acceptable use policy or storage policy) to users and enforce. Particular care should be taken to understand the energy consumption impact of any data retention requirements. The organisation shall implement a retention- & energy-based data management strategy which should support user-level requirement setting on retention duration, priority, redundancy etc. Each user shall receive reporting on their data usage as well as the associated energy- and resource-utilization.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 4.4.1, Name: Data management policy, Description: Develop a data management policy to define which data should be kept, for how long and at what level of protection. Communicate the policy to users and enforce. Particular care should be taken to understand the energy consumption impact of any data retention requirements.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.1.1",
+            "Name": "Design \u0096 Hot / Cold aisle",
+            "Excpected for": "New IT Equipment and New build or retrofit",
+            "Evidence": "Approved data centre operation procedures document, data from BMS, EMS and DCiM if in use, physical inspection and updated Design documents",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall adopt a hot & cold airflow management concept. Note: the intention is to align equipment air flow to create aisles between cabinets that are fed cold air from which all of the equipment draws intake air in conjunction with hot aisles with no cold air feed to which all equipment exhausts air. Reinforce Hot/Cold aisle design with empty but fully blanked cabinets (or solid doors) rather than leaving gaps in aisles.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.1.1, Name: Design \u0096 Hot / Cold aisle, Description: As the power densities and airflow volumes of IT equipment have increased it has become necessary to ensure that equipment shares an airflow direction, within the cabinet, in adjacent cabinets and across aisles.The hot / cold aisle concept aligns equipment air flow to create aisles between cabinets that are fed cold air from which all of the equipment draws intake air in conjunction with hot aisles with no cold air feed to which all equipment exhausts air. Reinforce Hot / Cold aisle design with empty but fully blanked cabinets (or solid doors) rather than leaving gaps in aisles.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.1.2",
+            "Name": "Design \u0096 Contained hot or cold air",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Approved data centre operation procedures document, data from BMS, EMS and DCiM if in use, physical inspection and updated Design documents",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall adapt these data centre design concepts that contain hot and cold air. Note: Examples include: - Hot aisle containment - Cold aisle containment - Contained cabinet supply, - Contained room return and room supply. - Contained cabinet return, and cabinet chimneys. - Contained cabinet supply, Contained cabinet return - Reardoor cooling",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.1.2, Name: Design \u0096 Contained hot or cold air, Description: There are a number of design concepts whose basic intent is to contain and separate the cold air from the heated return air on the data floor; - Hot aisle containment - Cold aisle containment - Contained cabinet supply, - Contained room return and room supply. - Contained cabinet return, and cabinet chimneys. -Contained cabinet supply, Contained cabinet return. Note: Failure to contain air flow results in both a reduction in achievable cooling efficiency and an increase in risk. Changes in IT hardware and IT management tools mean that the airflow and heat output of IT devices is no longer constant and may vary rapidly due to power management and workload allocation tools. This may result in rapid changes to data floor airflow pattern and IT equipment intake temperature which cannot be easily predicted or prevented. This Practice supersedes Practice 5.1.1 when implemented.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.1.3",
+            "Name": "Design \u0096 Contained hot or cold air \u0096 Retrofit",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Approved data centre operation procedures document, data from BMS, EMS and DCiM if in use, physical inspection and updated Design documents",
+            "Priority/Value": 4,
+            "Framework": "Where hot/cold aisle separation is already in use but there is no containment of hot or cold air, the organisation shall retrofit to provide basic separation for example using curtains or other methods. Note: Care should be taken to assess and verify fire system requirements and regulations.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.1.3, Name: Design \u0096 Contained hot or cold air \u0096 Retrofit, Description: Where hot / cold aisle separation is already in use but there is no containment of hot or cold air it is possible to retrofit to provide basic separation for example using curtains or other methods. Care should be taken to assess and verify fire system requirements and regulations.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.1.4",
+            "Name": "Cabinet air flow management \u0096 Blanking Plates",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Approved data centre operation procedures document, data from BMS, EMS and DCiM if in use, physical inspection and updated Design documents",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall have processes (during provisioning and data centre operation) to install blanking plates where there is no equipment to reduce hot air re-circulating through gaps in the cabinet.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.1.4, Name: Cabinet air flow management \u0096 Blanking Plates, Description: Installation of blanking plates where there is no equipment to reduce hot air re-circulating through gaps in the cabinet. This reduces air heated by one device being ingested by another device, increasing intake temperature and reducing efficiency.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.1.5",
+            "Name": "Cabinet air flow management \u0096 Other openings",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Approved data centre operation procedures document, data from BMS, EMS and DCiM if in use, physical inspection and updated Design documents",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall have processes (during provisioning and data centre operation) to install aperture brushes (draught excluders) or cover plates to cover all air leakage opportunities in each cabinet. Note: This includes floor openings at the base of the cabinet, Gaps at the sides, top and bottom ofthe cabinet between equipment or mounting rails and the perimeter of the cabinet. Not limited to aperture brushes, but blankings shades, cabinet side panel, cool boots, cool air inlet ducts and sealed outlets.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.1.5, Name: Cabinet air flow management \u0096 Other openings, Description: Installation of aperture brushes (draught excluders) or cover plates to cover all air leakage opportunities in each cabinet. This includes; floor openings at the base of the cabinet Gaps at the sides, top and bottom of the cabinet between equipment or mounting rails and the perimeter of the cabinet."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.1.6",
+            "Name": "Provide adequate free area on cabinet doors",
+            "Excpected for": "New IT Equipment New build or retrofit",
+            "Evidence": "Approved data centre operation procedures document, data from BMS, EMS and DCiM if in use, physical inspection and updated Design documents",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall have processes (during provisioning and data centre operation) to install perforated doors to ensure adequate cooling airflow. Note: Solid doors impede the cooling airflow and promote recirculation within the enclosed cabinet increasing equipment inlet temperatures. EN 50174-2 recommends a minimum of at least 66% perforated area. 80% is considered an ideal target by other organisations.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.1.6, Name: Provide adequate free area on cabinet doors, Description: Solid doors should be replaced (where cooling ventilation is necessary), with perforated doors to ensure adequate cooling airflow. Solid doors impede the cooling airflow and promote recirculation within the enclosed cabinet increasing equipment inlet temperatures. ISO/IEC 14763-2 recommends a minimum of at least 66% perforated area. 80% is considered an ideal target by other authorities.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.1.7",
+            "Name": "Raised floor air flow management",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Approved data centre operation procedures document, data from BMS, EMS and DCiM if in use, physical inspection and updated Design documents",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall have processes (during provisioning and data centre operation) to Close all unwanted apertures in the raised floor. Note: Review placement and opening factors of vented tiles to reduce bypass. Maintain unbroken rows of cabinets to prevent re-circulated air. If necessary fill with empty fully blanked cabinets. Managing unbroken rows is especially important in hot and cold aisle environments. Any opening between the aisles will degrade the separation of hot and cold air.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.1.7, Name: Raised floor air flow management, Description: Close all unwanted apertures in the raised floor. Review placement and opening factors of vented tiles to reduce bypass. Maintain unbroken rows of cabinets to prevent re-circulated air. If necessary fill with empty fully blanked cabinets. Managing unbroken rows is especially important in hot and cold aisle environments. Any opening between the aisles will degrade the separation of hot and cold air.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.1.8",
+            "Name": "Raised floor air flow management \u0096 Obstructions",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Approved data centre operation procedures document, data from BMS, EMS and DCiM if in use, physical inspection and updated Design documents",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall have processes (during provisioning and data centre operation) to review the placement and level of obstruction created by cabling, cable trays and other structures in the air flow paths. Note: these obstruct airflow and create turbulence, increasing the resistance and increasing the energy requirements of air movement and may increase velocities, causing negative pressure. Ensure that the under-floor area is as free of obstructions as possible. The use of overhead cabling trays can substantially reduce the level of obstruction.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.1.8, Name: Raised floor air flow management \u0096 Obstructions, Description: Review the placement and level of obstruction created by cabling, cable trays and other structures in the airflow paths, these obstruct airflow and create turbulence, increasing the resistance and increasing the energy requirements of air movement and may increase velocities, causing negative pressure. Ensure that the under-floor area is as free of obstructions as possible. The use of overhead cabling trays can substantially reduce the level of obstruction.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.1.11",
+            "Name": "Equipment segregation",
+            "Excpected for": "New IT Equipment and New build or retrofit",
+            "Evidence": "Approved data centre operation procedures document, data from BMS, EMS and DCiM if in use, physical inspection and updated Design documents",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall deploy groups of equipment with substantially different environmental requirements and/or equipment airflow direction in a separate area, where available.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.1.11, Name: Equipment segregation, Description: Deploy groups of equipment with substantially different environmental requirements and / or equipment airflow direction in a separate area. Where equipment has different environmental requirements it is preferable to provide separate environmental controls.This objective of this Practice is to address the issue of the data centre cooling plant settings being constrained by the equipment with the most restrictive environmental range or poor air flow control as this compromises the efficiency of the entire data centre. Note: This Practice applies to IT, mechanical and electrical equipment installed in the datacentre.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.1.12",
+            "Name": "Control of supplied air flow volume minimizing over pressure",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Approved data centre operation procedures document, data from BMS, EMS and DCiM if in use, physical inspection and updated Design documents",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall set operating setpoints for cooling unit fans in a way to ensure only a slight oversupply of air compared to IT equipment flow demand to minimise recirculation whilst avoiding oversupply of air volume (results in bypass and fan energy wastage). Note: This principle is particularly applicable in containement systems. In contained air systems, ensure that there is a slightly positive pressure (preferably no more than 5 Pa) in the cold air stream with respect to the hot air stream.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.1.12, Name: Control of supplied air flow volume minimizing over pressure, Description: Investigate operating cooling unit fans to ensure a slight oversupply of air compared to IT equipment flow demand to minimise recirculation whilst avoiding oversupply of air volume (results in bypass and fan energy wastage). This principle is particularly applicable contained systems. In contained air systems, ensure that there is a slightly positive pressure (preferably no more than 5Pa) in the cold air stream with respect to the hot air stream.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.2.2",
+            "Name": "Shut down unnecessary cooling equipment",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Approved data centre operation procedures document, data from BMS, EMS and DCiM if in use, physical inspection and updated Design documents",
+            "Priority/Value": 4,
+            "Framework": "If the facility is not yet fully populated or space has been cleared through consolidation, the organisation shall turn off non variable systems/devices such as fixed speed fan CRAC/CRAH units in the empty areas. Note: This should not be applied in cases where operating more plant at lower load is more efficient, e.g. variable speed drive CRAC/CRAH units.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.2.2, Name: Shut down unnecessary cooling equipment, Description: If the facility is not yet fully populated or space has been cleared through consolidation non variable plant such as fixed speed fan CRAC / CRAH units shall be turned off in the empty areas. Note: This should not be applied in cases where operating more plant at lower load is more efficient, e.g. variable speed drive CRAC / CRAH units.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.2.3",
+            "Name": "Review of cooling before IT equipment changes",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Approved data centre operation procedures document, data from BMS, EMS and DCiM if in use, physical inspection and updated Design documents",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall have a process to manage the placement and the airflow of vented tiles to optimise the use of cooling resources.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.2.3, Name: Review of cooling before IT equipment changes, Description: The availability of cooling including the placement and flow of vented tiles should be reviewed before all IT equipment changes to optimise the use of cooling resources.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.2.4",
+            "Name": "Define and review of cooling strategy",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Approved data centre operation procedures document or customer liasion document (reviews conducted as part of Best Practice 3.1.1 \"Group Involvement\" of this Framework, if applicable) Updated design documents",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall have regular reviews between the operator of the DC and the customer to ensure that the cooling deployment matches against needs, forecasts and provisioning. Reviews should be documented and available for review by DC Management, customers and external auditors (with appropriate permissions).",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.2.4, Name: Define and review of cooling strategy, Description: Periodically review the IT equipment and cooling deployment against defined strategy.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.2.5",
+            "Name": "Review CRAC / CRAH Settings",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Approved data centre operation procedures document, live-demonstration of BMS or updated Design documents",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall have operation procedure to ensure that CRAC/CRAH units in occupied areas have appropriate and consistent temperature and relative humidity settings calibrated to avoid units working against each other. Note: For example many CRAC/CRAH units now have the option to connect their controls and run together when installed in the same area. Care should be taken to understand and avoid any potential new failure modes or single points of failure that may be introduced. BMS monitoring shall be in place to indentify failures.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.2.5, Name: Review CRAC / CRAH Settings, Description: Ensure that CRAC / CRAH units in occupied areas have appropriate and consistent temperature and relative humidity settings properly calibrated to avoid units working against each other. For example many CRAC / CRAH units now have the option to connect their controls and run together when installed in the same area. Care should be taken to understand and avoid any potential new failure modes or single points of failure that may be introduced.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.2.7",
+            "Name": "Effective regular maintenance of cooling plant",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Maintenace and service reports",
+            "Priority/Value": 2,
+            "Framework": "The organisation shall implement regular (required by the manufacturer/integrator) maintenance of the cooling system to maintain the designed cooling efficiency of the data centre. The maintainance shall include operations to conserve or achieve a \u0093like new condition\u0094 and is essential to maintain the designed cooling efficiency of the data centre. Note: Examples include: belt tension, condenser coil fouling (water or air side), evaporator fouling etc. This includes regular filter changes to maintain air quality and reduce friction losses along with the routine monitoring of air quality and a regular technical cleaning regime (including under-floor areas if applicable).",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.2.7, Name: Effective regular maintenance of cooling plant, Description: Implement effective regular maintenance of the cooling system in order to conserve or achieve a \u0093like new condition\u0094 is essential to maintain the designed cooling efficiency of the data centre. Examples include: belt tension, condenser coil fouling (water or air side), evaporator fouling etc. This includes regular filter changes to maintain air quality and reduce friction losses along with the routine monitoring of air quality and a regular technical cleaning regime (including under-floor areas if applicable).."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.2.8",
+            "Name": "Review and optimise chilled water temperature",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Approved data centre operation procedures document, live-demonstration of BMS, EMS and DCiM if in use or updated Design documents",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall review and increase the chilled water temperature set points to maximise the use of free cooling and reduce compressor energy consumption. Note: Seasonal impact should be taken into account where applicable. Set points should be raised together with supply air flow set points to avoid reducing capacity. Review and if useful increase the chilled water temperature difference to reduce the water flow and thereby to reduce pump energy consumption. Note: Where a DX system is used, the evaporator temperatures should be reviewed. Electronic Expansion Valves (EEVs) allow better control and permit higher evaporator temperatures than Thermostatic ExpansionValves (TEVs).",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.2.8, Name: Review and optimise chilled water temperature, Description: Review and if possible increase the chilled water temperature set points to maximise the use of free cooling and reduce compressor energy consumption. Seasonal impact should be taken into account where applicable. Set points should be raised together with supply airflow set points to avoid reducing capacity. Review and if useful increase the chilled water temperature difference to reduce the water flow and thereby to reduce pump energy consumption. Where a DX system is used the evaporator temperatures should be reviewed. Electronic Expansion Valves (EEVs) allow better control and permit higher evaporator temperatures than Thermostatic Expansion Valves (TEVs).."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.3.1",
+            "Name": "Review and if possible raise target IT equipment intake air temperature",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Approved data centre operation procedures document, live-demonstration of BMS, EMS and DCiM if in use or updated Design documents",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall design and operate the Datacenter at the upper limits of the applicable ASHRAE Standards. Note: the relevant standard is ASHRAE Class A2 range. A summary of ASHRAE environmental guidelines can be found at: https://www.ashrae.org/file%20library/technical%20resources/bookstore/supplemental%20files/referencecard_2021thermalg uidelines.pdf Note: Some data centres may contain equipment with legacy environmental ranges as defined in 4.1.2, the maximum temperature for these facilities will be restricted by this equipment until segregation can be achieved as described in Practices 5.1.11, 5.1.4 and 5.1.5.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.3.1, Name: Review and if possible raise target IT equipment intake air temperature, Description: Data Centres should be designed and operated at their highest efficiency to deliver intake air to the IT equipment within the temperature range of 10\u00b0C to 35\u00b0C (50\u00b0F to 95\u00b0F). The current, relevant standard is the ASHRAE Class A2 allowable range for Data Centres. Operations in this range enable energy savings by reducing or eliminating overcooling. Note: Some data centres may contain equipment with legacy environmental ranges as defined in 4.1.2, the maximum temperature for these facilities will be restricted by this equipment until segregation can be achieved as described in Practices 5.1.11, 5.1.4 and 5.1.5. Note: Additional Best Practices for airflow management as defined in section 5.1 may need to be implemented at the same time to ensure successful operations. Note: Some, particularly older, IT equipment may exhibit significant increases in fan power consumption as intake temperature is increased. Validate that your IT equipment will not consume more energy than is saved in the cooling system. A summary of ASHRAE environmental guidelines can be found at: https://www.ashrae.org/File%20Library/Technical%20Resources/Publication%20Errata%20and%20Update s/90577_errata.pdf."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.3.2",
+            "Name": "Review and widen the working humidity range",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Approved data centre operation procedures document, live-demonstration of BMS, EMS and DCiM if in use or updated Design documents",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall reduce the lower humidity set point(s) of the data centre within the ASHRAE Class A2 range. Note: Some data centres may contain equipment with legacy environmental ranges as defined in 4.1.2, the humidity range for these facilities will be restricted by this equipment until segregation can be achieved as described in Practices 5.1.11, 5.1.4 and 5.1.5. Controlling humidity within a wider range of humidity ratio or relative humidity can reduce humidification and dehumidification loads and therefore energy consumption. A summary of ASHRAE environmental guidelines can be found at: https://www.ashrae.org/file%20library/technical%20resources/bookstore/supplemental%20files/referencecard_2021thermalg uidelines.pdf",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.3.2, Name: Review and widen the working humidity range, Description: Reduce the lower humidity set point(s) of the data centre within the ASHRAE Class A2 range (\u009612\u00b0C DP and 8% rh to 27\u00b0C DP and 80% rh) to reduce the demand for humidification. Review and if practical increase the upper humidity set point(s) of the data floor within the current A2 humidity range of (\u009612\u00b0C DP and 8% rh to 27\u00b0C DP and 80% rh) to decrease the dehumidification loads within the facility.The relevant standard is the ASHRAE Class A2 allowable range for Data Centers. Note: Some data centres may contain equipment with legacy environmental ranges as defined in 4.1.2, the humidity range forthese facilities will be restricted by this equipment until segregation can be achieved as described in Practices 5.1.11, 5.1.4 and 5.1.5. Controlling humidity within a wider range of humidity ratio or relative humidity can reduce humidification and dehumidification loads and therefore energy consumption. A summary of ASHRAE environmental guidelines can be found at: https://www.ashrae.org/File%20Library/Technical%20Resources/Publication%20Errata%20and%20Update s/90577_errata.pdf."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.3.3",
+            "Name": "Expanded IT equipment inlet environmental conditions (temperature and humidity)",
+            "Excpected for": "Optional",
+            "Evidence": "Result of the assessment Updated & approved IT equipment selection & procurement process & manufacturer data sheet Updated design documents Meeting minutes (See Best Practice 3.1.1. \"Group Involvement\" of this Framework)",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall consider designing and operating Data Centres within the air inlet temperature and relative humidity ranges of 5\u00b0C to 40\u00b0C and 5% to 80% rh, avoiding condensing conditions, and under exceptional conditions up to +45\u00b0C as described in ETSI EN 300 019\u00961-3 Class 3.1.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.3.3, Name: Expanded IT equipment inlet environmental conditions (temperature and humidity), Description: Where appropriate and effective, Data Centres can be designed and operated within the air inlet temperature and relative humidity ranges of 5\u00b0C to 40\u00b0C and 5% to 80% rh, non-condensing respectively, and under exceptional conditions up to +45\u00b0C as described in ETSI EN 300 019\u00961-3 Class 3.1. Note: Usin g the full range up to 40\u00b0C or 45\u00b0C will allow for the complete elimination of refrigeration in most climates allowing the operator to eliminate the capital and maintenance cost of the cooling systems.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.3.4",
+            "Name": "Separate environmental zones",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Layouts/Design Documents/On site inspection/DCiM/EMS/BMS Data",
+            "Priority/Value": 4,
+            "Framework": "The organisation, where a data centre houses both IT equipment compliant with the extended range of Practice 4.1.3 and other equipment which requires more restrictive temperature or humidity control as described in Practice 4.1.2, shall consider providing separate environmental zones/areas. These areas should have separate environmental controls and may use separate cooling systems to facilitate optimisation of the cooling efficiency of each zone. Examples are equipment which;\u0095 Requires tighter environmental controls to maintain battery capacity and lifetime such as UPS\u0095 Requires tighter environmental controls to meet archival criteria such as tape\u0095 Requires tighter environmental controls to meet long warranty durations (10+ year) The objective of this Practice is to avoid the need to set the data centre cooling plant for the equipment with the most restrictive environmental range and therefore compromising the efficiency of the entire datacentre.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.3.4, Name: Separate environmental zones, Description: Where a data centre houses both IT equipment compliant with the extended range of Practice 4.1.3 and other equipment which requires more restrictive temperature or humidity control as described in Practice 4.1.2, separate areas should be provided. These areas should have separate environmental controls and may use separate cooling systems to facilitate optimisation of the cooling efficiency of each zone. Examples are equipment which; Requires tighter environmental controls to maintain battery capacity and lifetime such as UPS Requires tighter environmental controls to meet archival criteria such as tape Requires tighter environmental controls to meet long warranty durations (10+ year). The objective of this Practice is to avoid the need to set the data centre cooling plant for the equipment with the most restrictive environmental range and therefore compromising the efficiency of the entire data centre.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.3.5",
+            "Name": "Separate environmental zones \u0096 Colocation or Managed Service Provider",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Cooling distribution layouts/Contract/On site inspection/DCiM/EMS/BMS Data Result of the assessment",
+            "Priority/Value": 4,
+            "Framework": "Colocation organisations shall provide separate environmental zones for customers that require extremely tight environmental control or items such as legacy equipment so that they should not compromise the entire data centre for specific items of legacy equipment. Service providers should design in such a way that discrete areas may be offered to customers with additional \u0093close control\u0094 cooling equipment in order to match specific requirements this and therefore offer a tighter SLA that would inevitably involve reduced energy efficiency. These legacy equipment support areas may be differentially priced to include the capital and operational (Metered), cost overhead of supporting a less energy efficient legacy environment as an incentive for customers to install IT equipment in more efficient areas and consider the options for more energy efficient delivery of IT services.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.3.5, Name: Separate environmental zones \u0096 Colocation or Managed Service Provider, Description: Customers requiring extremely tight environmental control or items such as legacy equipment should not compromise the entire data centre for specific items of equipment. Service providers should design in such a way that discrete areas may be offered to customers with additional \u0093close control\u0094cooling equipment in order to match specific requirements this and therefore offer a tighter SLA that would inevitably involve reduced energy efficiency. These legacy equipment support areas may be differentially priced to include the capital and operational (Metered), cost overhead of supporting a less energy efficient legacy environment as an incentive for customers to install IT equipment in more efficient areas and consider the options for more energy efficient delivery of IT services.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.4.1.1",
+            "Name": "Direct air free cooling",
+            "Excpected for": "Optional",
+            "Evidence": "Inspection free cooling operation mode according climate conditions/DCiM/EMS/BMS Data and Layout/Design Documents and commissioning documents",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall consider External air is used to cool the facility with different operating modes usually deployed. When outdoor conditions are cold exhaust air can be re-circulated and mixed with intake air to control supply air temperature and humidity. In many cases full mechanical cooling/refrigeration capacity is required as a backup to allow operation during periods of high airborne pollutant (E.G. External fires). For this reason special attention should be focussed on external air quality monitoring and filtration. Additional backup mechanical cooling with chiller or CRAC may also be considered to ensure cooling at extreme ambient temperature and humidity conditions or for system redundancy. Note: This design tends to have the lowest temperature difference between external temperature and IT supply air. Note: IT equipment is likely to be exposed to a large humidity range to allow direct air free cooling to work effectively. The achievable free cooling hours are directly constrained by the chosen upper humidity limit.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.4.1.1, Name: Direct air free cooling, Description: External air is used to cool the facility with different operating modes usually deployed. When outdoor conditions are cold exhaust air can be re-circulated and mixed with intake air to control supply air temperature and humidity. In many cases full mechanical cooling /refrigeration capacity is required as a backup to allow operation during periods of high airborne pollutant (E.G. External fires). For this reason special attention should be focussed on external air quality monitoring and filtration. Additional backup mechanical cooling with chiller or CRAC may also be considered to ensure cooling at extreme ambient temperature and humidity conditions or for system redundancy. Note: This design tends to have the lowest temperature difference between external temperature and IT supply air. Note: IT equipment is likely to be exposed to a large humidity range to allow direct air free cooling to work effectively. The achievable free cooling hours are directly constrained by the chosen upper humidity limit.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.4.1.2",
+            "Name": "Indirect air free cooling",
+            "Excpected for": "Optional",
+            "Evidence": "Inspection AHU Data and presence of air free cooling/Design documents/DCiM/EMS/BMS Data",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall consider circulating air within the facility through an air to air heat exchanger against external air (may have adiabaticcooling) to reject heat to the atmosphere. Avariation of this is a thermal wheel, quasi \u0096indirect free cooling system.This design tends to have a low temperaturedifference between external temperature andIT supply air.Note: The operating IT equipment humidityrange may be well controlled at negligibleenergy cost in this type of design.Note: Air filtration demand is lower comparedto direct air free cooling as data centre air iscirculating and no external air is induced.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.4.1.2, Name: Indirect air free cooling, Description: Recirculated air within the facility is primarily passed through an air to air heat exchanger against external air (may have adiabatic cooling) to remove heat to the atmosphere. A variation of this is a thermal wheel, quasi \u0096indirect free cooling system. This design tends to have a low temperature difference between external temperature and IT supply air. Note: The operating IT equipment humidity range may be well controlled at negligible energy cost in this type of design. Note: Air filtration demand is lower compared to direct air free cooling as data centre air is circulating and no external air is induced.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.4.1.3",
+            "Name": "Indirect water free cooling with CRAH and dry cooler or cooling tower",
+            "Excpected for": "Optional",
+            "Evidence": "Use of free cooling coils/On site inspection/DCiM/EMS/BMS Data and Design Documents",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall consider designing cooling systems that produce chilled water cooled by external ambient air via a free cooling coil.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.4.1.3, Name: Indirect water free cooling with CRAH and dry cooler or cooling tower, Description: Chilled water cooled by the external ambient air via a free cooling coil. This may be achieved by dry coolers or by evaporative assistance through spray onto the dry coolers. This design tends to have a highe temperature difference between external temperature and IT supply air. Note: Operating IT equipment humidity range may be well controlled at negligible energy cost in this type of design. Note: In this system additional backup mechanical cooling with chiller or CRAC may be considered to ensure cooling at extreme ambient temperature and humidity conditions or for system redundancy.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.4.1.8",
+            "Name": "Free Cooling installation",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Inspection free cooling system/On site inspection/DCiM/EMS/BMS Data",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall consider free cooling installations in all new buildings and retrofits or upgrades of cooling systems.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.4.1.8, Name: Free Cooling installation, Description: Investigate the installation of free cooling in all new builds and retrofits or upgrades of cooling systems.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.4.2.1",
+            "Name": "Chillers with high COP (EER)",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Cooling plant documentation. Procurement Documents, Design Documents",
+            "Priority/Value": 3,
+            "Framework": "When new cooling systems are planned, the Coefficient Of Performance (COP) or Energy Efficiency Ratio (EER) shall be a prioritised criteria in the planning, selection and procurement process.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.4.2.1, Name: Chillers with high COP (EER), Description: Where refrigeration^ {1} is installed make the Coefficient Of Performance (COP) or Energy Efficiency Ratio (EER) of chiller systems through their likely working range a high priority decision factor during procurement of new plant.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.4.2.2",
+            "Name": "Cooling system operating temperatures",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Design documents/DCiM/EMS/BMS Data",
+            "Priority/Value": 3,
+            "Framework": "The operator shall evaluate the opportunity to decrease condensing temperature and increase evaporating temperature.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.4.2.2, Name: Cooling system operating temperatures, Description: Evaluate the opportunity to decrease condensing temperature and increase evaporating temperature; reducing delta T between these temperatures means less work is required in cooling cycle hence improved efficiency. These temperatures are dependent on required IT equipment intake air temperatures and the quality of air flow management (see Temperature and Humidity Settings).."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.4.2.3",
+            "Name": "Efficient part load operation",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design documents/DCiM/EMS/BMS Data",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall optimise the design of the cooling plant for the load situation it will experience for the majority of the operational time, rather than the maximum load.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.4.2.3, Name: Efficient part load operation, Description: Optimise the facility for the partial load it will experience for the majority of operational time rather than max load. Examples are exploiting the heat exchange area, reducing fan energy consumption, sequencing chillers and operating cooling towers with shared load.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.4.2.4",
+            "Name": "Variable speed drives for compressors, pumps and fans",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design documents/DCiM/EMS/BMS Data",
+            "Priority/Value": 2,
+            "Framework": "The organisation shall install, where feasible, variable speed drives and the corresponding management mechanism to control the speed of compressors, pumps and fans for the load conditions they operate in the majority of the time. The organisation shall consider installing new or retrofit of Electrically Commutated (EC) motors which aresignificantly more energy efficient thantraditional AC motors across a wide range of speeds.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.4.2.4, Name: Variable speed drives for compressors, pumps and fans, Description: Using variable speed control reduces energy consumption for these components in the part load condition where they operate for much of the time. Consider new or retrofit of Electrically Commutated (EC) motors which are significantly more energy efficient than traditional AC motors across a wide range of speeds. In addition to installing variable speed drives it is critical to include the ability to properly control the speed according to demand. It is of limited value to install drives which are manually set at a constant speed or have limited control settings.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.4.2.5",
+            "Name": "Select systems which facilitate the use of \u0093Free Cooling\u0094",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design documents/DCiM/EMS/BMS Data",
+            "Priority/Value": 5,
+            "Framework": "The organisation shall choose cooling designs which allow the use of as much free cooling as possible with respect to physical site constraints, local climate or applicable regulatory conditions.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.4.2.5, Name: Select systems which facilitate the use of \u0093Free Cooling\u0094, Description: Cooling designs should be chosen which allow the use of as much \u0093Free Cooling\u0094 as is possible according to the physical site constraints, local climatic or regulatory conditions that may be applicable. Select systems which facilitate the use of free cooling. In some data centres it may be possible to use direct or indirect air side free cooling. Others may not have sufficient available space and may require a chilled liquid cooling system to allow the effective use of economised cooling.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.4.2.6",
+            "Name": "Do not share data centre chilled water system with comfort cooling",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Cooling system design documentation/DCiM/EMS/B MS Data",
+            "Priority/Value": 4,
+            "Framework": "Mixed-use buildings (offices and technical areas) shall not share chilled water systems between human confort cooling and technical cooling (data halls, technical spaces).",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.4.2.6, Name: Do not share data centre chilled water system with comfort cooling, Description: In buildings which are principally designed to provide an appropriate environment for IT equipment, and that have cooling systems designed to remove heat from technical spaces, do not share chilled water systems with human comfort cooling in other parts of the building.The required temperature to achieve latent cooling for comfort cooling is substantially below that required for sensible cooling of the data centre and will compromise the efficiency of the data centre cooling system. If comfort cooling remains a requirement consider the use of heat pumps to provide either cooling or heating for office area comfort.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.4.2.7",
+            "Name": "Do not allow non IT equipment to dictate cooling system set-points",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Inspection cooling system temperature and humidity set up /DCiM/EMS/BMS Data",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall define the set points of the cooling system responsible for the IT equipment by the IT equipment temperature and humidity range, and not by other equipment with a more restrictive temperature and humidity control range. Note: This is specific to the white space where the IT equipment is installed.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.4.2.7, Name: Do not allow non IT equipment to dictate cooling system set-points, Description: Where other equipment requires a more restrictive temperature or humidity control range than the IT equipment this should not be permitted to dictate the set points of the cooling system responsible for the IT equipment.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.4.2.8",
+            "Name": "Chilled water pump control strategy",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design documents/DCiM/EMS/BMS Data",
+            "Priority/Value": 1,
+            "Framework": "Chilled water systems configured with dual pumps, one active, one on standby, shall be reviewed for improved energy efficiency.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.4.2.8, Name: Chilled water pump control strategy, Description: Chilled water systems configured with dualn pumps, one active, one on standby, can be reviewed for improved energy efficiency during operation. Using the pump manufacturers\u0092 graphs of energy use vs pump speed, evaluate running two pumps in parallel vs a single pump running at a higher speed. If beneficial implement the running of two low speed pumps to reduce energy usage while achieving the same target flow rate and pressure.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.5.1",
+            "Name": "Variable Speed Fans",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design documents/DCiM/EMS/BMS Data",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall install variable speed fans where there is a high level of redundancy in the cooling system, low utilisation of the facility or highly variable IT electrical load.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.5.1, Name: Variable Speed Fans, Description: Many old CRAC / CRAH units operate fixed speed fans which consume substantial power and obstruct attempts to manage the data floor temperature. Variable speed fans are particularly effective where there is a high level of redundancy in the cooling system, low utilisation of the facility or highly variable IT electrical load. These fans may be controlled by factors such as the supply or return air temperature or the chilled air plenum pressure. Note: CRAC / CRAH units with fixed speed compressors have minimum flow requirements which constrain the minimum operating load and therefore minimum airflow.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.5.2",
+            "Name": "Control on CRAC / CRAH unit supply air temperature",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design documents/DCiM/EMS/BMS Data",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall control supply air temperature in order to ensure an even supply air temperature independent of the load on each CRAC/CRAH unit.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.5.2, Name: Control on CRAC / CRAH unit supply air temperature, Description: Controlling on supply temperature ensures an even supply air temperature independent of the load on each CRAC / CRAH unit. Historically many CRAC / CRAH units were controlled on return temperature which is no longer considered appropriate practice.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.5.5",
+            "Name": "Do not control humidity at CRAC / CRAH unit",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design documents/DCiM/EMS/BMS Data and commissioning documents",
+            "Priority/Value": 4,
+            "Framework": "The only humidity control that shall be present in the data centre is the air intake coming into the building. Humidity control shall be centralised. Note: This provides better control and allows use of adiabatic humidification (with lower energy consumption) and potential additional opportunities for some free cooling. Note: Humidity control at the CRAC/CRAH unit is unnecessary and undesirable.Humidity control should be centralised. Do not install humidity control at the CRAC/RAH unit on re-circulating air. Instead control the specific humidity of the make-up air at the supply AHU. This provides better control and allows use of adiabatic humidification (with lower energyconsumption) and potential additional opportunities for some free cooling. The chilled water loop or DX evaporator temperature should in any case be too high to provide de-humidification. When purchasing new CRAC/CRAH units select models which are not equipped with humidity control capability, including any reheat capability, this will reduce both capital and on-going maintenance costs.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.5.5, Name: Do not control humidity at CRAC / CRAH unit, Description: The only humidity control that should be present in the data centre is that on fresh \u0093Make Up\u0094 air coming into the building and not on re-circulating air within the equipment rooms. Humidity control at the CRAC / CRAH unit is unnecessary and undesirable. Humidity control should be centralised. Do not install humidity control at the CRAC /CRAH unit on re-circulating air. Instead control the specific humidity of the make-up air at the supply AHU. This provides better control and allows use of adiabatic humidification (with lower energy consumption) and potential additional opportunities for some free cooling. The chilled water loop or DX evaporator temperature should in any case be too high to provide de-humidification. When purchasing new CRAC / CRAH units select models which are not equipped with humidity control capability, including any reheat capability, this will reduce both capital and on-going maintenance costs.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.5.6",
+            "Name": "Cooling unit sizing and selection",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design documents/DCiM/EMS/BMS Data and commissioning documents",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall calculate the air volumes supplied by CRAC/CRAHs for IT equipment based on the IT load (kW) and on the IT equipment delta-T. Note: The volumes will depend on the IT load.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.5.6, Name: Cooling unit sizing and selection, Description: Air volumes required by IT equipment not only depend on the IT load (kW) but also on the IT equipment delta-T, which will also vary with utilisation. Consider these factors, plus likely future utilisation and bypass to size the cooling units design flow rates. As airflow is inversely proportional to delta T for the same load, if the IT delta-T is overestimated, this will result in undersized CRAC / CRAH air volumes and potential air management problems. Additionally, if it is underestimated, CRAC / CRAH air volumes will be oversized which makes low part load inefficient operation and air bypass more likely.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.7.1",
+            "Name": "Waste heat re-use",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Inspection re-use waste heating projects",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall evaluate the possibility of providing waste heating from the data centre to an industrial space or to other targets, such as adjacent office spaces.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.7.1, Name: Waste heat re-use, Description: Evaluate the possibility of providing grade heating to industrial space or to other targets such as adjacent office space fresh air directly from heat rejected from the datacentre. This does not reduce the energy consumed by the data centre itself but does offset the total energy overhead by potentially reducing energy use elsewhere.."
+    },
+    {
+        "metadata": {
+            "CoC No": "5.7.2",
+            "Name": "Heat pump assisted waste heat re-use",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Inspection re-use waste heating projects",
+            "Priority/Value": 4,
+            "Framework": "Where it is not possible to directly re-use the waste heating from the data centre, the organisation shall evaluate the use of heat pumps in order to provide waste heating to an industrial space or to other targets, such as adjacent office spaces.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 5.7.2, Name: Heat pump assisted waste heat re-use, Description: Where it is not possible to directly re-use the waste heat from the data centre due to the temperature being too low it can still be economic to use additional heat pumps to raise the temperature to a useful point. This possibility should be evaluated and can potentially supply office, district and other heating needs.."
+    },
+    {
+        "metadata": {
+            "CoC No": "6.1.1",
+            "Name": "Modular UPS deployment",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design Documents/Procurement",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall use modular UPS systems. Note: It is now possible to purchase modular (scalable) UPS systems across a broad range of power delivery capacities. This can substantially reduce both the capital cost and the fixed overhead losses of these systems. In low power installations, these may be frames with plug-in modules, whilst in larger installations these are more likely to be entire UPS units.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 6.1.1, Name: Modular UPS deployment, Description: It is now possible to purchase modular (scalable) UPS systems across a broadrange of power delivery capacities. Physical installation, transformers and cabling are prepared to meet the design electrical load of the facility but the sources of inefficiency (such switching units and batteries) are installed, as required, in modular units. This substantially reduces both the capital cost and the fixed overhead losses of these systems. In low power installations these may be frames with plug in modules whilst in larger installations these are more likely to be entire UPS units.."
+    },
+    {
+        "metadata": {
+            "CoC No": "6.1.2",
+            "Name": "High efficiency UPS",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "O&M Manuals/Check against EUCOC for UPS",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall use and document results of high efficiency UPS systems that are compliant with the \u0093elite requirements\u0094 of the 2021 or latest version of the EU Code of Conduct on Energy Efficiency of AC Uninterruptible Power Systems. A UPS compliant to this Code of Conduct requirement shall also be compliant to EN 62040 series for UPS systems which also provides environmental operating conditions. A UPS conforming to this standard should be able to perform as rated when operating within the following minimum ambient ranges: Temperature 0\u00b0C to +40\u00b0C. Relative Humidity 20% to 80%. Note: Rotary and Direct Current UPS systems are not included in the 2021 or latest version of the EU Code of Conduct on AC Uninterruptible Power Systems, but this does not in any way suggest that rotary or Direct Current UPS should not be used, rather that these technologies are not currently covered by an EU Code of Conduct providing shared evidence of meeting high efficiency requirements for these systems.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 6.1.2, Name: High efficiency UPS, Description: If static AC UPS systems are to be installed select energy efficient UPS systems that are compliant with the \u0093elite requirements\u0094 of the 2021 version of the EU Code of Conduct on Energy Efficiency of AC Uninterruptible Power Systems. A UPS compliant to this Code of Conduct requirement should also be compliant to IEC 62040 series for UPS systems, which also provides environmental operating conditions. A UPS conforming to this standard should be able to perform as rated when operating within the following minimum ambient ranges: Temperature 0\u00b0C to +40\u00b0C. Relative Humidity 20% to 80%. Note: Rotary and Direct Current UPS systems are not included in the 2021 versionof the EU Code of Conduct on ACU ninterruptible Power Systems, but this does not in any way suggest that rotary or Direct Current UPS should not be used, rather that these technologies are not currently coveredby an EU Code of Conduct providing shared evidence of meeting high efficiency requirements for these systems. Also consider referencing and using the current U.S. EPA ENERGY STAR specifications for Uninterruptible Power Supplies (UPS).."
+    },
+    {
+        "metadata": {
+            "CoC No": "6.1.3",
+            "Name": "Use efficient UPS operating modes",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Visual Inspection of Operational Modes/if not appropriate explain",
+            "Priority/Value": 2,
+            "Framework": "The organisation shall consider using UPS units in their most efficient operating modes. Note: Use of alternative UPS technologies such as rotary or direct current systems may be considered. The comparison and evaluation of the technologies shall be based on latest and non-biased information about available products in the market. Some UPS systems may have technologies allowing energy optimisation at partial load levels and these shall be taken into account as appropriate for the application. This may also be particularly relevant for any UPS system feeding mechanical loads e.g. CRAC/CRAH fans.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 6.1.3, Name: Use efficient UPS operating modes, Description: Deploy UPS units in their most efficient operating modes where appropriate. Note Use of alternative UPS technologies such as rotary or direct current systems may be considered. The comparison and evaluation of the technologies shall be based on latest and non-biased information about available products in the market. Some UPS systems may have technologies allowing energy optimisation at partial load levels and these shall be taken into account as appropriate for the application. This may also be particularly relevant for any UPS system feeding mechanical loads e.g. CRAC/CRAH fans.."
+    },
+    {
+        "metadata": {
+            "CoC No": "6.1.4",
+            "Name": "Elimination of Isolation Transformers",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Review of Design Documents",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall eliminate the use of isolation transformers in power distribution.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 6.1.4, Name: Elimination of Isolation Transformers, Description: Isolation transformers in power distribution to IT equipment down to 120 V are typically not required in Europe and should be eliminated from designs as they introduce additional transformer losses unnecessarily.."
+    },
+    {
+        "metadata": {
+            "CoC No": "6.1.5",
+            "Name": "Efficient part load operation",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Part Load Strategy/SOPs",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall implement and document an efficient part load strategy. Electrical infrastructure should remain energy efficient under partial fill and variable IT electrical loads as described in Practice 3.3.4 of the Code of Conduct.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 6.1.5, Name: Efficient part load operation, Description: Electrical infrastructure should remain energy efficient under partial fill and variable IT electrical loads as described in Practice 3.3.4.."
+    },
+    {
+        "metadata": {
+            "CoC No": "7.1.1",
+            "Name": "Turn off Lights",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Visual Inspection lIGHTING CONTROL SYSTEM",
+            "Priority/Value": 1,
+            "Framework": "The organisation shall turn off lighting (preferably automatically) whenever areas of the building are unoccupied.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 7.1.1, Name: Turn off Lights, Description: Lights should be turned off, preferably automatically whenever areas of the building are unoccupied, for example switches which turn off lighting a specified time after manual activation. Motion detector activated lighting is generally sufficient to support security camera systems.."
+    },
+    {
+        "metadata": {
+            "CoC No": "7.1.2",
+            "Name": "Low energy lighting",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Visual Inspection/Review of Bulbs/System",
+            "Priority/Value": 1,
+            "Framework": "The organisation shall deploy low energy lighting systems in the data centre spaces, e.g LED lighting systems.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 7.1.2, Name: Low energy lighting, Description: Low energy lighting systems should be used in the data centre. LED lighting is an example.."
+    },
+    {
+        "metadata": {
+            "CoC No": "7.1.3",
+            "Name": "Pale coloured fixtures and fittings",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Visual Inspection",
+            "Priority/Value": 1,
+            "Framework": "The organisation shall use pale/light colours on walls, floors fixtures and fittings including cabinets, etc. to reduce the amount of lighting required to illuminate a computer room and therefore the energy consumed for lighting. Note: This will also ensure good levels of visibility both throughout the hall and within cabinets.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 7.1.3, Name: Pale coloured fixtures and fittings, Description: Use pale / light colours on walls, floors fixtures and fittings including cabinets etc. to reduce the amount of lighting required to illuminate a data hall and therefore the energy consumed for lighting. This will also ensure good levels of visibility both throughout the hall and within cabinets.."
+    },
+    {
+        "metadata": {
+            "CoC No": "7.1.4",
+            "Name": "Energy & temperature reporting hardware",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design Documents/Visual Inspection/DCiM/BMS/EMS",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall select mechanical and electrical equipment with local metering/monitoring of energy usage and/or temperature as appropriate. Capabilities shall allow for reporting cumulative periodic energy consumption (kWh), in addition to instantaneous power usage (kW). Temperature reporting shall allow for visibility of temperature trends over a period of time as well as instantaneous temperature readings. Note: To assist in the implementation of temperature and energy monitoring across a broad range of data centre infrastructure all monitoring devices installed should be able to use existing networks and operate on an Open Protocol basis. This interface protocol should enable all operators\u0092 existing monitoring platform to be able to retrieve data from the installed meters without the purchase of additional licenses from the equipment vendor. The intent of this Practice is to provide energy and environmental monitoring of the data centre throughout the entire infrastructure with increasing levels of granularity.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 7.1.4, Name: Energy & temperature reporting hardware, Description: Select Mechanical and Electrical equipment with direct local metering of power usage and/or temperature reporting capabilities (where appropriate), preferably reporting energy used as a counter in addition to power as a gauge.To assist in the implementation of temperature and energy monitoring across abroad range of data centre infrastructure all monitoring devices installed should be able to use existing networks and operate on an Open Protocol basis.This interface protocol should enable all operators\u0092 existing monitoring platform to be able to retrieve data from the installed meters without the purchase of additional licenses from the equipment vendor The intent of this Practice is to provide energy and environmental monitoring of the data centre throughout the entire infrastructure with increasing levels of granularity.."
+    },
+    {
+        "metadata": {
+            "CoC No": "8.1.1",
+            "Name": "Locate M&E plant outside the cooled area",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design Documents/Visual Inspection",
+            "Priority/Value": 2,
+            "Framework": "The organisation shall locate, where possible, mechanical and electrical equipment (e.g. UPS units) which generate heat outside the cooled data centre spaces to reduce the load on the data centre cooling system.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 8.1.1, Name: Locate M&E plant outside the cooled area, Description: Heat generating Mechanical and Electrical plant such as UPS units should be located outside the cooled areas of the data centre wherever possible to reduce the loading on the data centre cooling plant.."
+    },
+    {
+        "metadata": {
+            "CoC No": "8.1.2",
+            "Name": "Select or create a building with sufficient \u0091slab to slab\u0092 separation / ceiling height",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design Documents/Visual Inspection",
+            "Priority/Value": 3,
+            "Framework": "Where air movement is used to cool the IT equipment, the organisation shall ensure sufficient room space to enable the use of efficient air cooling technologies such as raised floor, suspended ceiling, aisle containment or ducts in the data centre.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 8.1.2, Name: Select or create a building with sufficient \u0091slab to slab\u0092 separation / ceiling height, Description: Where air movement is used to cool the IT equipment, insufficient ceiling height will frequently hamper the use and efficiency of air cooling technologies such as raised floor, suspended ceiling, aisle containment or ducts in the data centre.."
+    },
+    {
+        "metadata": {
+            "CoC No": "8.1.3",
+            "Name": "Facilitate the use of \u0093Free Cooling\u0094",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design Documents/Visual Inspection",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall ensure that the physical layout of the building does not obstruct or restrict the use of free cooling (either air-side or water-side), or other equipment with an economization or free cooling mode.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 8.1.3, Name: Facilitate the use of \u0093Free Cooling\u0094, Description: The physical layout of the building should not obstruct or restrict the use of free cooling (either air or water) or other equipment with an economisation / free cooling mode.."
+    },
+    {
+        "metadata": {
+            "CoC No": "8.1.4",
+            "Name": "Location and orientation of plant equipment",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design Documents/Visual Inspection",
+            "Priority/Value": 2,
+            "Framework": "The organisation shall place cooling equipment, particularly dry or adiabatic coolers, in an area with free air movement. Note: This equipment should be located in a position on the site where the waste heat does not affect other buildings and create further demand for air conditioning.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 8.1.4, Name: Location and orientation of plant equipment, Description: Cooling equipment, particularly dry or adiabatic coolers should be located in an area of free air movement to avoid trapping it in a local hot spot. Ideally this equipment should also be located in a position on the site where the waste heat does not affect other buildings and create further demand for air conditioning.."
+    },
+    {
+        "metadata": {
+            "CoC No": "8.1.5",
+            "Name": "Minimise direct solar heating",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design Documents/Visual Inspection",
+            "Priority/Value": 2,
+            "Framework": "The organisation shall minimize solar heating (insolation) of the cooled areas of the data centre by providing shade or increasing the albedo (reflectivity) of the building. Note: this can be achieved through the use of light coloured roof and wall surfaces and by avoiding the use of external windows in data centre spaces. Failure to protect against solar heating (insolation) will result in additional cooling requirements. Shade can be constructed or provided by utilizing natural features including \u0093green roof\u0094 systems.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 8.1.5, Name: Minimise direct solar heating, Description: Minimise solar heating (insolation), of the cooled areas of the data centre by providing shade or increasing the albedo (reflectivity) of the building through the use of light coloured roof and wall surfaces. Shade may be constructed, provided by utilising natural features including \u0093green roof\u0094 systems. Effective insulation can be provided by using suitable wall and roof coverings. There should also be no external windows in the data centre to prevent heating from direct sunlight. This is also good practice from a security point of view. Failure to protect against solar heating (insolation) will result in additional cooling requirements.."
+    },
+    {
+        "metadata": {
+            "CoC No": "9.1.1",
+            "Name": "Incoming energy consumption meter",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Design Documents/Visual Inspection/DCiM/EMS/BMS Data",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall install metering equipment capable of measuring the total energy use of the data centre according the EN 50600-4-2 or ISO/IEC 30134-2. Note: see cross-reference table.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 9.1.1, Name: Incoming energy consumption meter, Description: Install metering equipment capable of measuring the total energy use of the data centre including all power conditioning, distribution and cooling systems. This should be separate from any non data centre building loads. Note: This is required for Code of Conduct reporting.."
+    },
+    {
+        "metadata": {
+            "CoC No": "9.1.2",
+            "Name": "IT Energy consumption meter",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Design Documents/Visual Inspection/DCiM/EMS/BMS Data",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall install metering equipment capable of measuring the total energy delivered to IT systems. According the EN 50600-4-2 or ISO/IEC 30134-2. Note: see cross-reference table .",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 9.1.2, Name: IT Energy consumption meter, Description: Install metering equipment capable of measuring the total energy delivered to IT systems. This may also include other power feeds where non UPS protected power is delivered to the cabinets. Note: This is required for Code of Conduct reporting.."
+    },
+    {
+        "metadata": {
+            "CoC No": "9.1.3",
+            "Name": "Room level metering of supply air temperature and humidity",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Design Documents/ operation and maintenace documents/Visual Inspection/DCiM/EMS/BMS Data",
+            "Priority/Value": 2,
+            "Framework": "The organisation shall install metering equipment at room level in the computer room space capable of indicating the supply air temperature and humidity for the IT equipment. According the EN 50600-2-3 or ISO/IEC22237-4. Note: see cross-reference table.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 9.1.3, Name: Room level metering of supply air temperature and humidity, Description: Install metering equipment at room level capable of indicating the supply air temperature and humidity for the IT equipment.."
+    },
+    {
+        "metadata": {
+            "CoC No": "9.1.4",
+            "Name": "CRAC / CRAH unit level metering of supply or return air temperature",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Design Documents/ operation and maintenace documents/Visual Inspection/DCiM/EMS/BMS Data",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall collect data from CRAC / CRAH units on supply and return (dependent upon operating mode) air temperature. According the EN 50600-2-3 or ISO/IEC 22237-4. Note: see cross-reference table.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 9.1.4, Name: CRAC / CRAH unit level metering of supply or return air temperature, Description: Collect data from CRAC / CRAH units on supply and return (dependent upon operating mode) air temperature.."
+    },
+    {
+        "metadata": {
+            "CoC No": "9.1.5",
+            "Name": "Distribution board level metering of Mechanical and Electrical energy consumption",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design Documents/ operation and maintenace documents/Visual Inspection/DCiM/EMS/BMS Data",
+            "Priority/Value": 3,
+            "Framework": "The organisation shall install metering equipment at distribution board level for measuring the energy use of mechanical and electrical components. Note: Total energy use includes energy for electricity, heating/cooling and all fuels required for data centre operation (see EN 50600-4-2; ISO/IEC 30134-2 PUE). Note: see cross-reference table.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 9.1.5, Name: Distribution board level metering of Mechanical and Electrical energy consumption, Description: Improve visibility and granularity of datacentre infrastructure overheads."
+    },
+    {
+        "metadata": {
+            "CoC No": "9.2.1",
+            "Name": "Periodic manual readings",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Design Documents/Visual Inspection/DCiM/EMS/BMS Data",
+            "Priority/Value": 3,
+            "Framework": "Organisations carrying out manual data collection shall at least collect energy, temperature and humidity to facilitate reporting based on these readings. Measurements should occur at regular intervals, ideally at peak load.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 9.2.1, Name: Periodic manual readings, Description: As an entry level, energy, temperature and humidity (dry bulb temperature, relative humidity and dew point temperature) should be made available to allow reporting to be performed based on periodic manual readings of measurement and metering equipment. This should occur at regular times, ideally at peak load. Note: Energy reporting is already mandated for Code of Conduct reporting requirements also that automated readings are considered to be a replacement for this Practice when applying for Participant status.."
+    },
+    {
+        "metadata": {
+            "CoC No": "9.2.2",
+            "Name": "Automated daily readings",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design Documents/Visual Inspection/DCiM/EMS/BMS Data",
+            "Priority/Value": 4,
+            "Framework": "In cases where an organisation has deployed an automated system, the system shall collect automated readings to enable a more effective management of energy use.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 9.2.2, Name: Automated daily readings, Description: Automated daily readings enable more effective management of energy use. Note: Supersedes Periodic manual readings.."
+    },
+    {
+        "metadata": {
+            "CoC No": "9.2.4",
+            "Name": "Achieved free cooling / economised cooling hours",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design Documents/Visual Inspection/DCiM/EMS/BMS Data and SOPs, MOPs",
+            "Priority/Value": 4,
+            "Framework": "If a free cooling cooling solution has been deployed, the organisation shall collect and log full free cooling, partial free cooling and full refrigerant and compressor-based cooling hours throughout the year. Note: The data is used to reduce the time spent on mechanical cooling during the year. The site design, cooling system operational set-points and IT equipment environmental control ranges should allow the data centre to operate without refrigeration for a significant part of the year with no refrigeration for the IT cooling load as evaluated against a Typical Meteorological Year for the site. This refers to mechanical compressors and heat pumps, any device which uses energy to raise the temperature of the rejected heat.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 9.2.4, Name: Achieved free cooling / economised cooling hours, Description: Require collection and logging of full free cooling, partial free cooling and full refrigerant and compressor based cooling hours throughout the year.The intent being to record the amount of time and energy spent running on mechanical refrigerant and compressor based cooling versus the use of free cooling in order to reduce the amount of time spent on mechanical cooling during the year. The site design, cooling system operational set-points and IT equipment environmental control ranges should allow the data centre to operate without refrigeration for a significant part of the year with no refrigeration for the IT cooling load as evaluated against a Typical Meteorological Year for the site. Note: This refers to mechanical compressors and heat pumps, any device which uses energy to raise the temperature of the rejected heat.."
+    },
+    {
+        "metadata": {
+            "CoC No": "9.3.1",
+            "Name": "Written Reporting",
+            "Excpected for": "Entire Data Centre",
+            "Evidence": "Design Documents/Visual Inspection/DCiM/EMS/BMS Data/DCM Monthly Report",
+            "Priority/Value": 4,
+            "Framework": "The organisation shall provide written reports on energy consumption and environmental ranges on a regular basis. All written reports and submissions shall reference the Category being reported and ensure that the required method of data collection and calculation determined by standardized KPIs according to EN 50600-4-X (X=1 to 9), ISO/IEC 30134-4 and ISO/IEC 30134-5 shall be used in all reports, written or otherwise if reported. These Standardised KPIs include PUE, pPUE, REF, ITEESV, ITEUSV, ERF, CER, CUE, WUE. Note: Different categories of PUE, CUE and WUE ranging from 1 to 3 representing increasing levels of reporting granularity.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 9.3.1, Name: Written Reporting, Description: Minimum reporting consists of periodic written reports on energy consumption and environmental ranges. All written reports and submissions should reference the Category being reported and ensure that the required method of data collection and calculation determined by the Standardised ISO KPIs from the ISO/IEC 30134 series (or EN 50600 equivalent), should be used in all reports, written or otherwise if reported. These Standardised KPIs include PUE, pPUE, REF, ITEESV, ITEUSV, ERF, CER, CUE, WUE. Note: Determining the averaged DCiE or PUE over the reporting period is already mandated by the Code of Conduct reporting requirements. This report may be produced by an automated system. Note: All DCiE and PUE calculations should be completed according to the guidelines set out by EN 50600-4-2 which is equivalent to ISO/IEC 30134-2. EN 50600-4-2:2016 \u0093Information technology \u0097 Data centre facilities and infrastructures \u0097 Part 4-2: Power Usage Effectiveness\u0094. Note: Different categories of PUE ranging from 0 to 3 representing increasing levels of reporting granularity.."
+    },
+    {
+        "metadata": {
+            "CoC No": "9.3.4",
+            "Name": "Achieved free cooling / economised cooling hours",
+            "Excpected for": "New build or retrofit",
+            "Evidence": "Design Documents/Visual Inspection/DCiM/EMS/BMS Data",
+            "Priority/Value": 4,
+            "Framework": "If a free cooling solution has been deployed, the organisation shall report full free cooling, partial free cooling and full refrigerant and compressor-based cooling hours throughout the year.",
+            "source": "JRC Assessment Framework"
+        },
+        "page_content": "CoC No: 9.3.4, Name: Achieved free cooling / economised cooling hours, Description: Require reporting of full free cooling, partial free cooling and full refrigerant and compressor based cooling hours throughout the year.The intent being to report the amount or time and energy spent running on mechanical refrigerant and compressor based cooling versus the use of free cooling in order to reduce the amount of time spent on mechanical cooling during the year. The site design, cooling system operational set-points and IT equipment environmental control ranges should allow the data centre to operate without refrigeration for a significant part of the year with no refrigeration for the IT cooling load as evaluated against a Typical Meteorological Year for the site. Note: This refers to mechanical compressors and heat pumps, any device which uses energy to raise the temperature of the rejected heat.."
+    }
+]
