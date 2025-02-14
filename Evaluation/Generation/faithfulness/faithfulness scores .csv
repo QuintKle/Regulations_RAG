@@ -1,0 +1,33 @@
+Query,Original Response Context,Original Reposne Metadata,Technical Details Context,Technical Details Metadata
+How can I reduce cooling costs without breaking compliance?,0.37,0.49,1,0.79
+How can I reduce cooling costs without breaking compliance?,0.61,0.75,1,1
+How can I reduce cooling costs without breaking compliance?,0.37,0.74,1,1
+How can I reduce cooling costs without breaking compliance?,0.2,0.7,1,1
+What's the best way to forecast my data center's future energy use?,0.54,0.81,0.88,1
+What's the best way to forecast my data center's future energy use?,0.29,0.53,0.92,1
+What's the best way to forecast my data center's future energy use?,0.32,0.34,0.8,0.9
+What's the best way to forecast my data center's future energy use?,0.62,0.57,1,1
+What's the best way to forecast my data center's future energy use?,0.42,0.63,0.65,1
+How can I improve my data center's uptime without increasing energy costs?,0.28,0.62,0.8,1
+How can I improve my data center's uptime without increasing energy costs?,0.73,0.77,0.77,0.85
+How can I improve my data center's uptime without increasing energy costs?,0.31,0.69,0.76,1
+How can I improve my data centerâs uptime without increasing energy costs?,0.33,0.54,0.92,1
+How can I improve my data centerâs uptime without increasing energy costs?,0.53,0.65,0.83,1
+What are the first steps in designing a new energy-efficient data center?,0.34,0.73,1,1
+What are the first steps in designing a new energy-efficient data center?,0.37,0.47,0.8,0.94
+What are the first steps in designing a new energy-efficient data center?,0.31,0.82,0.82,1
+What are the first steps in designing a new energy-efficient data center?,0.57,0.64,0.94,1
+What are the first steps in designing a new energy-efficient data center?,0.36,0.6,0.86,1
+How do I upgrade an existing data center for better energy efficiency?,0.41,0.66,0.82,0.95
+How do I upgrade an existing data center for better energy efficiency?,0.38,0.63,1,1
+How do I upgrade an existing data center for better energy efficiency?,0.35,0.86,0.85,0.9
+How do I upgrade an existing data center for better energy efficiency?,0.25,0.49,0.64,1
+How do I upgrade an existing data center for better energy efficiency?,0.33,0.56,0.88,1
+What are the risks of retrofitting an older data center?,0.62,0.78,0.64,1
+What are the risks of retrofitting an older data center?,0.75,0.69,0.78,0.94
+What are the risks of retrofitting an older data center?,0.93,0.9,0.96,1
+What are the risks of retrofitting an older data center?,0,0,0,0
+What are the risks of retrofitting an older data center?,0.83,0.83,0.83,0.82
+How can I monitor and report energy consumption trends over time,0.42,0.81,0.86,1
+How can I reduce cooling costs without breaking compliance?,0,1,1,1
+How can I reduce cooling costs without breaking compliance?,0.53,0,0.74,0
